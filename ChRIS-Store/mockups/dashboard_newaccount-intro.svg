@@ -292,35 +292,6 @@
        y1="-1.0729163"
        x2="1.166667"
        y2="0.031250387" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient164257"
-       id="linearGradient176497"
-       gradientUnits="userSpaceOnUse"
-       x1="-260.85226"
-       y1="-193.21242"
-       x2="-260.0914"
-       y2="-264.94757" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient441533-2-8"
-       id="linearGradient176499"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-251.48894,-378.70751)"
-       x1="57.695152"
-       y1="231.51561"
-       x2="53.672615"
-       y2="265.91144" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient441533-2-8"
-       id="linearGradient176501"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,1,-114.61548,-378.46182)"
-       x1="57.695152"
-       y1="231.51561"
-       x2="53.672615"
-       y2="265.91144" />
   </defs>
   <sodipodi:namedview
      inkscape:document-units="px"
@@ -11953,7 +11924,7 @@ AAAAAAAAAAAAAAAAAADg9v9AgeuwRzqiwAAAAABJRU5ErkJggg==
          id="tspan173358"
          sodipodi:role="line">Let's fix that!</tspan></text>
     <g
-       transform="matrix(-0.01516633,0,0,0.01515986,14.379069,8.9494821)"
+       transform="matrix(-0.01516633,0,0,0.01515986,11.254074,-3.9671828)"
        style="display:inline;stroke-width:2.59644103"
        id="g101605"
        inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/ChRIS-Store/web-assets/dashboard_new-account/brainy_revisions-pointer.png"
@@ -12045,7 +12016,7 @@ AAAAAAAAAAAAAAAAAADg9v9AgeuwRzqiwAAAAABJRU5ErkJggg==
          style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.68697494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(-0.0164415,0,0,0.01643692,-1.4475874,8.2563956)"
+       transform="matrix(-0.0164415,0,0,0.01643692,-1.4475874,3.8813963)"
        style="display:inline;stroke-width:2.39488935"
        id="g174161"
        inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/ChRIS-Store/web-assets/dashboard_new-account/brainy_teammates-pointer.png"
@@ -12252,7 +12223,7 @@ AAAAAAAAAAAAAAAAAADg9v9AgeuwRzqiwAAAAABJRU5ErkJggg==
     </g>
     <g
        style="stroke-width:1.16198969"
-       transform="matrix(0.86059288,0,0,0.86059288,-22.342971,-1.6005854)"
+       transform="matrix(0.86059288,0,0,0.86059288,-3.5929919,-1.6005854)"
        id="g176495"
        inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/ChRIS-Store/web-assets/dashboard_new-account/brainy_welcome-pointer.png"
        inkscape:export-xdpi="96"
@@ -12282,7 +12253,7 @@ AAAAAAAAAAAAAAAAAADg9v9AgeuwRzqiwAAAAABJRU5ErkJggg==
            height="48.514336"
            width="78.352798"
            id="rect176461"
-           style="opacity:0.98999999;fill:url(#linearGradient176497);fill-opacity:1;stroke:none;stroke-width:1.01337242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:0.98999999;fill:url(#linearGradient164259);fill-opacity:1;stroke:none;stroke-width:1.01337242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            transform="matrix(0.88383251,-0.46780347,-0.46780347,-0.88383251,-81.770747,-391.83078)"
            clip-path="url(#clipPath92168-3)"
@@ -12304,13 +12275,13 @@ AAAAAAAAAAAAAAAAAADg9v9AgeuwRzqiwAAAAABJRU5ErkJggg==
              y="-215.27937"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.13018227px;font-family:'Marketing Script';-inkscape-font-specification:'Marketing Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:#60605b;stroke-width:0.67558157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Welcome!</tspan></text>
         <path
-           style="fill:url(#linearGradient176499);fill-opacity:1;stroke:none;stroke-width:1.27668953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:url(#linearGradient81664);fill-opacity:1;stroke:none;stroke-width:1.27668953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -204.24192,-122.52896 -1.32292,21.35565 c -17.71828,1.647226 -8.48512,5.366806 5.10268,6.425586 l 1.88988,-28.159216 z"
            id="path176469"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
         <path
-           style="fill:url(#linearGradient176501);fill-opacity:1;stroke:none;stroke-width:1.27668953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:url(#linearGradient81666);fill-opacity:1;stroke:none;stroke-width:1.27668953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -161.86274,-122.2833 1.32293,21.35565 c 17.71834,1.647226 8.48514,5.366806 -5.10269,6.425586 l -1.88989,-28.159216 z"
            id="path176471"
            inkscape:connector-curvature="0"
