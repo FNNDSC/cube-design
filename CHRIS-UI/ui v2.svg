@@ -4614,5 +4614,39 @@
        inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/site-map.png"
        inkscape:export-xdpi="96.000595"
        inkscape:export-ydpi="96.000595" />
+    <rect
+       inkscape:export-ydpi="96.000595"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/site-map.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#555753;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect256723"
+       width="30.427082"
+       height="17.540573"
+       x="1076.0609"
+       y="104.33908" />
+    <text
+       inkscape:export-ydpi="96.000595"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/site-map.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:3.56097579px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1080.2147"
+       y="111.9383"
+       id="text256729"><tspan
+         id="tspan256725"
+         sodipodi:role="line"
+         x="1080.2147"
+         y="111.9383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.26458332px">Create new</tspan><tspan
+         id="tspan256727"
+         sodipodi:role="line"
+         x="1080.2147"
+         y="115.57186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.26458332px">project</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1058.0687,95.779162 v 4.762498 h 32.0146 l 1.0276,3.83519"
+       id="path256731"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
