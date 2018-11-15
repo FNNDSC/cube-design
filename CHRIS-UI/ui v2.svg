@@ -546,7 +546,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1137.2108"
+     inkscape:cx="977.21077"
      inkscape:cy="256.61526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3180,14 +3180,174 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.1845431">X-ray</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.1845431"
-       x="-142.87108"
-       y="149.82817"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       x="-132.28773"
+       y="160.41151"
        id="text255627"><tspan
          sodipodi:role="line"
          id="tspan255625"
-         x="-142.87108"
-         y="149.82817"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0093d9;stroke-width:0.1845431">23</tspan></text>
+         x="-132.28773"
+         y="160.41151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;">52</tspan></text>
+    <text
+       id="text255633"
+       y="150.35733"
+       x="-132.28773"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;"
+         y="150.35733"
+         x="-132.28773"
+         id="tspan255631"
+         sodipodi:role="line">23</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       x="-134.93353"
+       y="171.52402"
+       id="text255637"><tspan
+         sodipodi:role="line"
+         id="tspan255635"
+         x="-134.93353"
+         y="171.52402"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;">123</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path255639"
+       d="m -179.41767,148.58764 h 43.30666"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749994;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
+    <path
+       inkscape:export-ydpi="96.000595"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749994;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -173.06767,159.17098 h 36.95666"
+       id="path255641"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path255643"
+       d="m -183.38641,169.75431 h 43.57124"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916663, 1.58749989;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
+    <text
+       id="text255647"
+       y="182.10736"
+       x="-132.28773"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;"
+         y="182.10736"
+         x="-132.28773"
+         id="tspan255645"
+         sodipodi:role="line">76</tspan></text>
+    <path
+       inkscape:export-ydpi="96.000595"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749994;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -162.48434,180.33766 h 26.37333"
+       id="path255649"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       x="-132.28773"
+       y="192.6907"
+       id="text255653"><tspan
+         sodipodi:role="line"
+         id="tspan255651"
+         x="-132.28773"
+         y="192.6907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;">25</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path255655"
+       d="m -168.83434,190.921 h 32.72333"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749993;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
+    <text
+       id="text255659"
+       y="203.27405"
+       x="-132.28773"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;"
+         y="203.27405"
+         x="-132.28773"
+         id="tspan255657"
+         sodipodi:role="line">12</tspan></text>
+    <path
+       inkscape:export-ydpi="96.000595"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749994;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -157.19267,201.50434 h 21.08166"
+       id="path255661"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       x="-132.28773"
+       y="213.85739"
+       id="text255665"><tspan
+         sodipodi:role="line"
+         id="tspan255663"
+         x="-132.28773"
+         y="213.85739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;">9</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path255667"
+       d="m -166.45309,212.08768 h 30.34208"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749995;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
+    <text
+       id="text255671"
+       y="224.44073"
+       x="-132.28773"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;"
+         y="224.44073"
+         x="-132.28773"
+         id="tspan255669"
+         sodipodi:role="line">15</tspan></text>
+    <path
+       inkscape:export-ydpi="96.000595"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749995;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -174.126,222.67102 h 38.01499"
+       id="path255673"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.46991682px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.1845431;"
+       x="-132.28773"
+       y="235.02408"
+       id="text255677"><tspan
+         sodipodi:role="line"
+         id="tspan255675"
+         x="-132.28773"
+         y="235.02408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555753;stroke-width:0.1845431;">19</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path255679"
+       d="m -179.41767,233.25436 h 43.30666"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916665, 1.58749994;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/cube-design/CHRIS-UI/PNG/workflow-diagram-1.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
   </g>
 </svg>
