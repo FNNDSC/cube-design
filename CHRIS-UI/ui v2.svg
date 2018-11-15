@@ -545,9 +545,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.5"
      inkscape:cx="977.21077"
-     inkscape:cy="256.61526"
+     inkscape:cy="256.11526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -587,7 +587,10 @@
        width="69.110985"
        height="365.94839"
        x="-497.39685"
-       y="51.67033" />
+       y="51.67033"
+       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/pf_my-feeds.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
     <rect
        y="94.626266"
        x="-497.39685"
@@ -601,7 +604,10 @@
        height="348.28519"
        width="400.31454"
        id="rect247111"
-       style="opacity:1;fill:#f0f1f2;fill-opacity:1;stroke:none;stroke-width:1.72814178;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#f0f1f2;fill-opacity:1;stroke:none;stroke-width:1.72814178;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/pf_my-feeds.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
     <rect
        y="125.10134"
        x="-413.9595"
@@ -644,7 +650,10 @@
        width="476.24997"
        height="19.672682"
        x="-497.56784"
-       y="32.232586" />
+       y="32.232586"
+       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/pf_my-feeds.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
     <g
        transform="matrix(25.454508,0,0,25.454508,-515.28508,148.22643)"
        id="layer1-3"
@@ -1016,7 +1025,10 @@
        height="0.68426722"
        width="476.13531"
        id="rect97693"
-       style="opacity:1;fill:#5dacdc;fill-opacity:1;stroke:none;stroke-width:0.3222613;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#5dacdc;fill-opacity:1;stroke:none;stroke-width:0.3222613;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/pf_my-feeds.png"
+       inkscape:export-xdpi="96.000595"
+       inkscape:export-ydpi="96.000595" />
     <use
        id="use97705"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.54666662"
