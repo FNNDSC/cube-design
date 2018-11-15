@@ -509,6 +509,34 @@
        y1="150.57202"
        x2="-240.12827"
        y2="143.69286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient251196"
+       id="linearGradient251608"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.2708332,0,0,1,538.26602,0)"
+       x1="-240.12827"
+       y1="150.57202"
+       x2="-240.12827"
+       y2="143.69286" />
+    <symbol
+       id="symbol94929">
+      <title
+         id="title94925">Expand More</title>
+      <path
+         d="M33.17 17.17L24 26.34l-9.17-9.17L12 20l12 12 12-12z"
+         style="stroke:none"
+         id="path94927" />
+    </symbol>
+    <symbol
+       id="symbol93632">
+      <title
+         id="title93628">Info Outline</title>
+      <path
+         d="M22 34h4v-12h-4v12zm2-30c-11.05 0-20 8.95-20 20s8.95 20 20 20 20-8.95 20-20-8.95-20-20-20zm0 36c-8.82 0-16-7.18-16-16s7.18-16 16-16 16 7.18 16 16-7.18 16-16 16zm-2-22h4v-4h-4v4z"
+         style="stroke:none"
+         id="path93630" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -518,8 +546,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="964.32337"
-     inkscape:cy="-23.884737"
+     inkscape:cx="1182.1892"
+     inkscape:cy="656.11526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -986,7 +1014,7 @@
        id="use97705"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.54666662"
        xlink:href="#ic_apps_24px"
-       transform="matrix(0.0362223,0,0,0.0362223,-117.2094,37.454278)"
+       transform="matrix(0.0362223,0,0,0.0362223,-154.25109,37.454278)"
        x="0"
        y="0"
        width="100%"
@@ -995,7 +1023,7 @@
        id="use100058"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.54666662"
        xlink:href="#admin-users"
-       transform="matrix(0.03191398,0,0,0.03191398,-100.28156,37.959748)"
+       transform="matrix(0.03191398,0,0,0.03191398,-137.32325,37.959748)"
        x="0"
        y="0"
        width="100%"
@@ -1003,19 +1031,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.77266645px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.1845431"
-       x="-83.450058"
+       x="-120.49171"
        y="43.222588"
        id="text100074"><tspan
          sodipodi:role="line"
          id="tspan100072"
-         x="-83.450058"
+         x="-120.49171"
          y="43.222588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#fafafa;stroke-width:0.1845431">Rudolph Pienaar</tspan></text>
     <use
        id="use100087"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.54666662"
        xlink:href="#arrow-down-alt2"
-       transform="matrix(0.01900547,0,0,0.01900547,-49.373241,39.969638)"
+       transform="matrix(0.01900547,0,0,0.01900547,-86.414903,39.969638)"
        x="0"
        y="0"
        width="100%"
@@ -2901,5 +2929,65 @@
          x="-312.28644"
          id="tspan251596"
          sodipodi:role="line">Registered images</tspan></text>
+    <g
+       transform="translate(19.579172,-15.345832)"
+       id="g251606">
+      <rect
+         style="opacity:1;fill:url(#linearGradient251608);fill-opacity:1;stroke:#d1d3d4;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect251600"
+         width="41.539581"
+         height="6.3499999"
+         x="-270.95221"
+         y="145.41264" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.40504599px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1845431"
+       x="-248.55447"
+       y="134.75732"
+       id="text251612"><tspan
+         sodipodi:role="line"
+         id="tspan251610"
+         x="-248.55447"
+         y="134.75732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.1845431">Past 3 months</tspan></text>
+    <use
+       id="use251625"
+       style="fill:#000000;stroke:#000000;stroke-width:2"
+       xlink:href="#symbol94929"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.13229166,0,0,0.13229166,-216.84493,130.4637)" />
+    <rect
+       y="32.232586"
+       x="-67.090775"
+       height="19.672682"
+       width="45.772903"
+       id="rect251639"
+       style="opacity:1;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1.72814167;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text251643"
+       y="43.222588"
+       x="-53.816723"
+       style="font-style:normal;font-weight:normal;font-size:4.77266645px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.1845431"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#fafafa;stroke-width:0.1845431"
+         y="43.222588"
+         x="-53.816723"
+         id="tspan251641"
+         sodipodi:role="line">Messages: <tspan
+   style="-inkscape-font-specification:'Open Sans Semi-Bold';font-family:'Open Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan255565">6</tspan></tspan></text>
+    <use
+       id="use255551"
+       style="fill:#e7e8e9;stroke:#000000;stroke-width:1.66666675"
+       xlink:href="#symbol93632"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.15874999,0,0,0.15874999,-63.227856,37.753694)" />
   </g>
 </svg>
