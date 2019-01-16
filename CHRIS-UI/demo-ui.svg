@@ -197,7 +197,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="776.59672"
-     inkscape:cy="2435.743"
+     inkscape:cy="2275.743"
      inkscape:current-layer="layer1"
      id="namedview80325"
      showgrid="false"
@@ -243,9 +243,9 @@
      id="layer1"
      transform="translate(3.187718,17.802084)">
     <rect
-       y="-15.420349"
-       x="-0.71853101"
-       height="26.222433"
+       y="-15.843749"
+       x="-0.68728101"
+       height="26.21875"
        width="14.375"
        id="rect89780"
        style="display:inline;opacity:1;fill:#f0f1f2;fill-opacity:1;stroke:none;stroke-width:0.06803708;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -971,12 +971,12 @@
        inkscape:connector-curvature="0" />
     <text
        id="text93533"
-       y="-16.331928"
+       y="-16.311094"
        x="-0.079317339"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.27777776px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00726548"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:0.00726548"
-         y="-16.331928"
+         y="-16.311094"
          x="-0.079317339"
          id="tspan93531"
          sodipodi:role="line">My Feeds</tspan></text>
