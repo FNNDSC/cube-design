@@ -1,0 +1,462 @@
+{
+  "version": "1.9.2",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "Q265A",
+      "url": "board-4-Q265A.png",
+      "newShot": false,
+      "lastEdited": 1550078271859,
+      "layers": {
+        "ink": {
+          "url": "board-4-Q265A-ink.png"
+        },
+        "reference": {
+          "url": "board-4-Q265A-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 17712.279106963488,
+      "sts": {
+        "params": {
+          "shotType": "mls",
+          "content": "oneShot",
+          "horizontalComposition": "auto",
+          "verticalAngle": "eye",
+          "fov": "wide",
+          "headDirection": "headFront",
+          "background": "light",
+          "lightDirection": "backrightlit",
+          "roomSize": "mediumRoom",
+          "pose": "sit_in_chair",
+          "model": "boxmodel",
+          "horizontalAngle": "left"
+        },
+        "camera": {
+          "fov": 37.8,
+          "position": [
+            -1.007312871402845,
+            1.4029096449806286,
+            0.9812570631473927
+          ],
+          "rotation": [
+            -0.5934921843880842,
+            -1.041269363256367,
+            -0.5272528720354352,
+            "XYZ"
+          ]
+        }
+      },
+      "dialogue": "Let's start by performing a brain volume calculation in ChRIS."
+    },
+    {
+      "uid": "QU7E7",
+      "url": "board-2-QU7E7.png",
+      "newShot": false,
+      "lastEdited": 1550078665950,
+      "layers": {
+        "reference": {
+          "url": "board-2-QU7E7-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-2-QU7E7-fill.png"
+        },
+        "tone": {
+          "url": "board-2-QU7E7-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-QU7E7-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-QU7E7-ink.png"
+        },
+        "notes": {
+          "url": "board-2-QU7E7-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 10846.682717960866,
+      "dialogue": "First, we'll log in. ",
+      "notes": "We don't have a PatternFly styled login screen design yet."
+    },
+    {
+      "uid": "P2P3A",
+      "url": "board-3-P2P3A.png",
+      "newShot": false,
+      "lastEdited": 1550078932998,
+      "layers": {
+        "reference": {
+          "url": "board-3-P2P3A-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-3-P2P3A-fill.png"
+        },
+        "tone": {
+          "url": "board-3-P2P3A-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-P2P3A-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-P2P3A-ink.png"
+        },
+        "notes": {
+          "url": "board-3-P2P3A-notes.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4000,
+      "lineMileage": 3957.4630217901145,
+      "dialogue": "This is a list of my feeds in the system. Feeds are working spaces where you can run plugins and pipelines of plugins on data and experiment. \n\nLet's create a new feed for our brain volume calculation."
+    },
+    {
+      "uid": "71M5I",
+      "url": "board-5-71M5I.png",
+      "newShot": false,
+      "lastEdited": 1550079351343,
+      "layers": {
+        "reference": {
+          "url": "board-5-71M5I-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-5-71M5I-fill.png"
+        },
+        "tone": {
+          "url": "board-5-71M5I-tone.png"
+        },
+        "pencil": {
+          "url": "board-5-71M5I-pencil.png"
+        },
+        "ink": {
+          "url": "board-5-71M5I-ink.png"
+        },
+        "notes": {
+          "url": "board-5-71M5I-notes.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 6000,
+      "lineMileage": 63431.28441553217,
+      "dialogue": "We'll create a new feed via this form. [TODO need design for this]",
+      "notes": "We don't have a create a new feed design yet."
+    },
+    {
+      "uid": "W99F3",
+      "url": "board-4-W99F3.png",
+      "newShot": false,
+      "lastEdited": 1550079183900,
+      "layers": {
+        "reference": {
+          "url": "board-4-W99F3-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-4-W99F3-fill.png"
+        },
+        "tone": {
+          "url": "board-4-W99F3-tone.png"
+        },
+        "pencil": {
+          "url": "board-4-W99F3-pencil.png"
+        },
+        "ink": {
+          "url": "board-4-W99F3-ink.png"
+        },
+        "notes": {
+          "url": "board-4-W99F3-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 8000,
+      "lineMileage": 20452.21157726881,
+      "dialogue": "We're going to start with this simple feed that pulls in data from the PACS, and build out the brain volume calculation by adding plugins to the feed."
+    },
+    {
+      "uid": "SAO0C",
+      "url": "board-6-SAO0C.png",
+      "newShot": false,
+      "lastEdited": 1550086639217,
+      "layers": {
+        "reference": {
+          "url": "board-6-SAO0C-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-6-SAO0C-ink.png"
+        },
+        "fill": {
+          "url": "board-6-SAO0C-fill.png"
+        },
+        "tone": {
+          "url": "board-6-SAO0C-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-SAO0C-pencil.png"
+        },
+        "notes": {
+          "url": "board-6-SAO0C-notes.png"
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 10000,
+      "lineMileage": 15030.324595560658,
+      "dialogue": "First I'll start by adding [$1] node... (rinse & repeat, $1 - $N needed...)"
+    },
+    {
+      "uid": "JP8VM",
+      "url": "board-7-JP8VM.png",
+      "newShot": false,
+      "lastEdited": 1550086788388,
+      "layers": {
+        "reference": {
+          "url": "board-7-JP8VM-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-7-JP8VM-fill.png"
+        },
+        "tone": {
+          "url": "board-7-JP8VM-tone.png"
+        },
+        "pencil": {
+          "url": "board-7-JP8VM-pencil.png"
+        },
+        "ink": {
+          "url": "board-7-JP8VM-ink.png"
+        },
+        "notes": {
+          "url": "board-7-JP8VM-notes.png"
+        }
+      },
+      "number": 7,
+      "shot": "7A",
+      "time": 12000,
+      "lineMileage": 1703.0228022989108,
+      "dialogue": "Now we've created a feed that will be able to provide us a brain volume calculation. Let's run it.\n\n[Q: is there an explicit \"run\" button we need for feeds?]"
+    },
+    {
+      "uid": "6XOT9",
+      "url": "board-8-6XOT9.png",
+      "newShot": false,
+      "lastEdited": 1550086935224,
+      "layers": {
+        "reference": {
+          "url": "board-8-6XOT9-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-8-6XOT9-fill.png"
+        },
+        "tone": {
+          "url": "board-8-6XOT9-tone.png"
+        },
+        "pencil": {
+          "url": "board-8-6XOT9-pencil.png"
+        },
+        "ink": {
+          "url": "board-8-6XOT9-ink.png"
+        },
+        "notes": {
+          "url": "board-8-6XOT9-notes.png"
+        }
+      },
+      "number": 8,
+      "shot": "8A",
+      "time": 14000,
+      "lineMileage": 84629.69174840652,
+      "dialogue": "[Narrator clicks on 'output' button from one of the plugins to show the MRI viewer]",
+      "audio": null,
+      "action": "",
+      "notes": ""
+    },
+    {
+      "uid": "K05FP",
+      "url": "board-9-K05FP.png",
+      "newShot": false,
+      "lastEdited": 1550087183952,
+      "layers": {
+        "reference": {
+          "url": "board-9-K05FP-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-9-K05FP-fill.png"
+        },
+        "tone": {
+          "url": "board-9-K05FP-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-K05FP-pencil.png"
+        },
+        "ink": {
+          "url": "board-9-K05FP-ink.png"
+        },
+        "notes": {
+          "url": "board-9-K05FP-notes.png"
+        }
+      },
+      "number": 9,
+      "shot": "9A",
+      "time": 16000,
+      "lineMileage": 98732.58338285207,
+      "dialogue": "If I click on this last node, I'll get the value of the brain volume calculation that just completed.",
+      "audio": null,
+      "action": "",
+      "notes": ""
+    },
+    {
+      "uid": "UJX1B",
+      "url": "board-8-UJX1B.png",
+      "newShot": false,
+      "lastEdited": 1550087134293,
+      "layers": {
+        "reference": {
+          "url": "board-8-UJX1B-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-8-UJX1B-fill.png"
+        },
+        "tone": {
+          "url": "board-8-UJX1B-tone.png"
+        },
+        "pencil": {
+          "url": "board-8-UJX1B-pencil.png"
+        },
+        "ink": {
+          "url": "board-8-UJX1B-ink.png"
+        },
+        "notes": {
+          "url": "board-8-UJX1B-notes.png"
+        }
+      },
+      "number": 10,
+      "shot": "10A",
+      "time": 18000,
+      "lineMileage": 1892.691332832218,
+      "dialogue": "Now we'll add a new plugin to this feed - the Multi-Party Compute (MPC) plugin. This will allow me to understand how the volume I just calculated fits within ranges calculated for data from multiple other medical institutions - while maintaining the privacy of those institutions' data.",
+      "audio": null,
+      "action": "",
+      "notes": ""
+    },
+    {
+      "uid": "QPDHR",
+      "url": "board-7-QPDHR.png",
+      "newShot": false,
+      "lastEdited": 1550087346492,
+      "layers": {
+        "reference": {
+          "url": "board-7-QPDHR-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-7-QPDHR-ink.png"
+        },
+        "fill": {
+          "url": "board-7-QPDHR-fill.png"
+        },
+        "tone": {
+          "url": "board-7-QPDHR-tone.png"
+        },
+        "pencil": {
+          "url": "board-7-QPDHR-pencil.png"
+        },
+        "notes": {
+          "url": "board-7-QPDHR-notes.png"
+        }
+      },
+      "number": 11,
+      "shot": "11A",
+      "time": 20000,
+      "lineMileage": 15030.324595560658,
+      "dialogue": "[Clicks on add new nodes] Here's the MPC Volume calculation plugin.",
+      "audio": null,
+      "action": "",
+      "notes": ""
+    },
+    {
+      "uid": "SBIGI",
+      "url": "board-8-SBIGI.png",
+      "newShot": false,
+      "lastEdited": 1550087477214,
+      "layers": {
+        "reference": {
+          "url": "board-8-SBIGI-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-8-SBIGI-fill.png"
+        },
+        "tone": {
+          "url": "board-8-SBIGI-tone.png"
+        },
+        "pencil": {
+          "url": "board-8-SBIGI-pencil.png"
+        },
+        "ink": {
+          "url": "board-8-SBIGI-ink.png"
+        },
+        "notes": {
+          "url": "board-8-SBIGI-notes.png"
+        }
+      },
+      "number": 12,
+      "shot": "12A",
+      "time": 22000,
+      "lineMileage": 1703.0228022989108,
+      "dialogue": "Now we'll run it and wait for the data to come back from the various institutions. ",
+      "audio": null,
+      "action": "",
+      "notes": ""
+    },
+    {
+      "uid": "FX5QN",
+      "url": "board-10-FX5QN.png",
+      "newShot": false,
+      "lastEdited": 1550087504640,
+      "layers": {
+        "reference": {
+          "url": "board-10-FX5QN-reference.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-10-FX5QN-fill.png"
+        },
+        "tone": {
+          "url": "board-10-FX5QN-tone.png"
+        },
+        "pencil": {
+          "url": "board-10-FX5QN-pencil.png"
+        },
+        "ink": {
+          "url": "board-10-FX5QN-ink.png"
+        },
+        "notes": {
+          "url": "board-10-FX5QN-notes.png"
+        }
+      },
+      "number": 13,
+      "shot": "13A",
+      "time": 24000,
+      "lineMileage": 98732.58338285207,
+      "dialogue": "It's complete! We can click on output here to view the results. ",
+      "audio": null,
+      "action": "",
+      "notes": ""
+    }
+  ]
+}
