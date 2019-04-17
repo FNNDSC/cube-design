@@ -16,10 +16,10 @@
    height="958"
    viewBox="0 0 1960 958"
    sodipodi:docname="metadata-display_embedded.svg"
-   inkscape:version="0.92.4 (unknown)"
-   inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/Rev2/PNG/metadata-dismissable_dismissed.png"
+   inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/Rev2/PNG/metadata-dismissable_visible.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -112,7 +112,7 @@
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="g96970" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -9990,11 +9990,10 @@ QAAAAAAAAAAAABgKuFyQeZE5BUwAAAAASUVORK5CYII=
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Dismissable overlay"
      id="g96970"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        id="g96918"
        style="display:inline">
@@ -10111,12 +10110,176 @@ QAAAAAAAAAAAABgKuFyQeZE5BUwAAAAASUVORK5CYII=
          id="rect96966"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
+    <rect
+       style="display:inline;opacity:1;fill:#464646;fill-opacity:0.49180328;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect96972"
+       width="971.5647"
+       height="83.124893"
+       x="735.21765"
+       y="202.43756"
+       ry="0.82207233" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="755.39227"
+       y="240.97513"
+       id="text96946"><tspan
+         sodipodi:role="line"
+         id="tspan96940"
+         x="755.39227"
+         y="240.97513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885">Image Size: 320 x 320</tspan><tspan
+         id="tspan96944"
+         sodipodi:role="line"
+         x="755.39227"
+         y="262.01971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885" /></text>
+    <text
+       id="text96956"
+       y="238.97513"
+       x="1235.3923"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="238.97513"
+         x="1235.3923"
+         id="tspan96948"
+         sodipodi:role="line">Anonymized</tspan><tspan
+         id="tspan96954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="260.04132"
+         x="1235.3923"
+         sodipodi:role="line">(age: 003Y, dob: 20090501)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="1475.3923"
+       y="238.97513"
+       id="text96984"><tspan
+         id="tspan96980"
+         sodipodi:role="line"
+         x="1475.3923"
+         y="238.97513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885">MR-Brain w/o Contrast</tspan><tspan
+         sodipodi:role="line"
+         x="1475.3923"
+         y="260.04132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         id="tspan96982">AX T2 FLAIR</tspan></text>
+    <text
+       id="text97001"
+       y="240.97513"
+       x="975.39227"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="240.97513"
+         x="975.39227"
+         sodipodi:role="line"
+         id="tspan96997">WW: 615 WL: 250</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="262.04132"
+         x="975.39227"
+         sodipodi:role="line"
+         id="tspan96999">I: 146 J: 242  K: 79 Val 113</tspan></text>
+    <g
+       id="use98326"
+       style="display:inline;fill:#ffffff;stroke:none"
+       transform="translate(1673.5481,207.16967)">
+      <path
+         id="path98338"
+         d="M 19,6.41 17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+    <rect
+       ry="0.82207233"
+       y="202.43756"
+       x="735.21765"
+       height="83.124893"
+       width="971.5647"
+       id="rect98380-3"
+       style="display:inline;opacity:1;fill:#464646;fill-opacity:0.49180328;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text98386"
+       y="240.97513"
+       x="755.39227"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="240.97513"
+         x="755.39227"
+         id="tspan98382"
+         sodipodi:role="line">Image Size: 320 x 320</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="262.01971"
+         x="755.39227"
+         sodipodi:role="line"
+         id="tspan98384" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="1235.3923"
+       y="238.97513"
+       id="text98392"><tspan
+         sodipodi:role="line"
+         id="tspan98388"
+         x="1235.3923"
+         y="238.97513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885">Anonymized</tspan><tspan
+         sodipodi:role="line"
+         x="1235.3923"
+         y="260.04132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         id="tspan98390">(age: 003Y, dob: 20090501)</tspan></text>
+    <text
+       id="text98398"
+       y="238.97513"
+       x="1475.3923"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="238.97513"
+         x="1475.3923"
+         sodipodi:role="line"
+         id="tspan98394">MR-Brain w/o Contrast</tspan><tspan
+         id="tspan98396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885"
+         y="260.04132"
+         x="1475.3923"
+         sodipodi:role="line">AX T2 FLAIR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.83566284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       x="975.39227"
+       y="240.97513"
+       id="text98404"><tspan
+         id="tspan98400"
+         sodipodi:role="line"
+         x="975.39227"
+         y="240.97513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885">WW: 615 WL: 250</tspan><tspan
+         id="tspan98402"
+         sodipodi:role="line"
+         x="975.39227"
+         y="262.04132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;stroke-width:2.37590885">I: 146 J: 242  K: 79 Val 113</tspan></text>
+    <g
+       transform="translate(1673.5481,207.16967)"
+       style="display:inline;fill:#ffffff;stroke:none"
+       id="g98408">
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="M 19,6.41 17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12 Z"
+         id="path98406" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g98410"
      inkscape:label="Dismissable overlay - dismissed state"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        style="display:inline"
