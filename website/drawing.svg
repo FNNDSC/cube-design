@@ -140,8 +140,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3455556"
-     inkscape:cx="737.83663"
-     inkscape:cy="1392.8572"
+     inkscape:cx="1926.9366"
+     inkscape:cy="1523.6581"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2854,33 +2854,22 @@ ZCxmCOGBJBEA6EXX/frMzBaKa/a8K2b6f9cKzDn1pyziAAAAAElFTkSuQmCC
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;stroke-width:0.48857194"
    id="tspan5259">Open source</tspan> medical analytics </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.84727573px;line-height:1;font-family:Overpass;-inkscape-font-specification:'Overpass Light';fill:#ffffff;fill-opacity:1;stroke-width:0.48857194"
-         y="-114.79075"
+         y="-114.79074"
          x="65.520576"
          sodipodi:role="line"
          id="tspan5257">in an <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;stroke-width:0.48857194"
    id="tspan5261">open cloud</tspan>.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.84727573px;line-height:1;font-family:Overpass;-inkscape-font-specification:'Overpass Light';fill:#ffffff;fill-opacity:1;stroke-width:0.48857194"
-         y="-95.247871"
+         y="-95.247864"
          x="65.520576"
          sodipodi:role="line"
          id="tspan5241" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.84727573px;line-height:1;font-family:Overpass;-inkscape-font-specification:'Overpass Light';fill:#ffffff;fill-opacity:1;stroke-width:0.48857194"
-         y="-75.704987"
+         y="-75.704979"
          x="65.520576"
          sodipodi:role="line"
          id="tspan5226" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.85911655px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:0.37147787"
-       x="85.89801"
-       y="-217.64832"
-       id="text5234"><tspan
-         id="tspan5232"
-         sodipodi:role="line"
-         x="85.89801"
-         y="-217.64832"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#dedede;fill-opacity:1;stroke-width:0.37147787">Own data + benefit from public cloud computing</tspan></text>
     <rect
        style="opacity:0.41199999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.3472538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5263"
@@ -5098,12 +5087,12 @@ ZCxmCOGBJBEA6EXX/frMzBaKa/a8K2b6f9cKzDn1pyziAAAAAElFTkSuQmCC
        id="rect5405"
        style="opacity:0.41199999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16670275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="opacity:0.41199999;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80561447;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.80561447;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5407"
        width="49.945274"
        height="13.371181"
-       x="433.94724"
-       y="-78.468872" />
+       x="435.53476"
+       y="-52.01054" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.3352046px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13338012"
@@ -5490,5 +5479,50 @@ ZCxmCOGBJBEA6EXX/frMzBaKa/a8K2b6f9cKzDn1pyziAAAAAElFTkSuQmCC
        height="13.371181"
        x="-257.32962"
        y="-76.109253" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.76453114px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4282c9;fill-opacity:1;stroke:none;stroke-width:0.14411329"
+       x="442.70355"
+       y="-43.478294"
+       id="text5447"><tspan
+         sodipodi:role="line"
+         id="tspan5445"
+         x="442.70355"
+         y="-43.478294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#4282c9;fill-opacity:1;stroke-width:0.14411329">Try our demo</tspan></text>
+    <rect
+       y="-51.742962"
+       x="493.7804"
+       height="13.066212"
+       width="61.04121"
+       id="rect5449"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:0.8804031;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5453"
+       y="-43.478294"
+       x="500.91177"
+       style="font-style:normal;font-weight:normal;font-size:5.76453114px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:0.14411329"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#fcfcfc;fill-opacity:1;stroke-width:0.14411329"
+         y="-43.478294"
+         x="500.91177"
+         id="tspan5451"
+         sodipodi:role="line">View us on GitHub</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.00787163px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1751968"
+       x="435.46826"
+       y="-81.487556"
+       id="text5457"><tspan
+         sodipodi:role="line"
+         x="435.46826"
+         y="-81.487556"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';fill:#ffffff;fill-opacity:1;stroke-width:0.1751968"
+         id="tspan5459">ChRIS is a platform that enables you to benefit from the power of public cloud </tspan><tspan
+         sodipodi:role="line"
+         x="435.46826"
+         y="-72.659279"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';fill:#ffffff;fill-opacity:1;stroke-width:0.1751968"
+         id="tspan5467">computing while still maintaining ownership of your own data.</tspan></text>
   </g>
 </svg>
