@@ -8,6 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/CHRIS-UI/PNG/create-new-feed-fsplugin/new-feed_fsplugin_01.png"
    sodipodi:docname="new-feed.svg"
    inkscape:version="1.0beta2 (unknown)"
    id="svg24378"
@@ -766,6 +769,7 @@
          sodipodi:role="line">Next</tspan></text>
   </g>
   <g
+     sodipodi:insensitive="true"
      style="display:inline"
      transform="translate(-0.40171158,-0.19986572)"
      id="layer1"
@@ -2571,9 +2575,9 @@ IiIiIiLiNgqnRERERERERETEbf4fTM6V7D3pxqwAAAAASUVORK5CYII=
        id="text121205"
        y="102.25483"
        x="125.92618"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611111px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.294927"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.294927"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:0.294927;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:0.294927"
          y="102.25483"
          x="125.92618"
          id="tspan121203"
@@ -2700,9 +2704,9 @@ IiIiIiLiNgqnRERERERERETEbf4fTM6V7D3pxqwAAAAASUVORK5CYII=
        id="text121846"
        y="141.61713"
        x="130.16554"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.16101px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.267589;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.16101px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.267589"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#808080;fill-opacity:1;stroke-width:0.267589;"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#808080;fill-opacity:1;stroke-width:0.267589"
          y="141.61713"
          x="130.16554"
          id="tspan121844"
