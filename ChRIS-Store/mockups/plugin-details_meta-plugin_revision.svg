@@ -160,9 +160,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="34"
      inkscape:window-x="0"
-     inkscape:cy="1146.4487"
-     inkscape:cx="964.99106"
-     inkscape:zoom="1"
+     inkscape:cy="904.35072"
+     inkscape:cx="1228.7163"
+     inkscape:zoom="0.70710678"
      showgrid="false"
      id="namedview4"
      inkscape:window-height="1369"
@@ -4766,15 +4766,15 @@
      id="rect1741"
      style="opacity:1;fill:#ededed;fill-opacity:1;stroke-width:0.466055;stroke-linecap:round;stroke-linejoin:round" />
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.550832;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.884183;stroke-linecap:round;stroke-linejoin:round"
      id="rect1743"
      width="1305.4862"
-     height="695.97064"
+     height="1793.228"
      x="199"
      y="354" />
   <rect
      y="118.55273"
-     x="180.00601"
+     x="179.00601"
      height="177.83665"
      width="686.63464"
      id="rect1749"
@@ -4785,7 +4785,7 @@
      height="150"
      width="150"
      id="rect1765"
-     style="opacity:1;fill:#e9e9e9;fill-opacity:1;stroke-width:0.269203;stroke-linecap:round;stroke-linejoin:round" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.269203;stroke-linecap:round;stroke-linejoin:round" />
   <image
      id="image1761"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABiCAYAAABdwEHTAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -5201,12 +5201,12 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
   <text
      id="text1825"
      y="425.97119"
-     x="261.26511"
+     x="257.26511"
      style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
      xml:space="preserve"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314"
        y="425.97119"
-       x="261.26511"
+       x="257.26511"
        id="tspan1823"
        sodipodi:role="line">Overview</tspan></text>
   <path
@@ -5218,8 +5218,8 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
   <path
      inkscape:connector-curvature="0"
      id="path1827"
-     d="M 242.4129,452.31689 H 388.49487"
-     style="fill:none;stroke:#3e8ddd;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+     d="M 238.4129,452.31689 H 384.49487"
+     style="fill:none;stroke:#3e8ddd;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <text
      xml:space="preserve"
      style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
@@ -5362,7 +5362,7 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
        d="M 256,8 C 119,8 8,119 8,256 8,393 119,504 256,504 393,504 504,393 504,256 504,119 393,8 256,8 Z M 313.1,358.1 224.9,294 c -3.1,-2.3 -4.9,-5.9 -4.9,-9.7 V 116 c 0,-6.6 5.4,-12 12,-12 h 48 c 6.6,0 12,5.4 12,12 v 137.7 l 63.5,46.2 c 5.4,3.9 6.5,11.4 2.6,16.8 l -28.2,38.8 c -3.9,5.3 -11.4,6.5 -16.8,2.6 z" />
   </g>
   <image
-     transform="translate(0,-16)"
+     transform="matrix(1.0449447,0,0,1.0449447,-12.301193,-25.819473)"
      clip-path="url(#clipPath5373)"
      id="image5367"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACagAAAMyCAYAAACCE7SJAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -16414,4 +16414,426 @@ QmCC
      width="529.3562"
      x="13.55127"
      y="161.45128" />
+  <text
+     xml:space="preserve"
+     style="font-size:52.3132px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:1.30783"
+     x="257.53806"
+     y="587.79462"
+     id="text5379"><tspan
+       sodipodi:role="line"
+       id="tspan5377"
+       x="257.53806"
+       y="587.79462"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;fill:#000000;stroke-width:1.30783">freesurfer</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18.2304px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.403196"
+     x="252.81679"
+     y="506.2681"
+     id="text5383"><tspan
+       sodipodi:role="line"
+       id="tspan5381"
+       x="252.81679"
+       y="506.2681"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;letter-spacing:-0.402138;fill:#c4beb6;stroke-width:0.403196">README.rst</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
+     x="263.26511"
+     y="639.97119"
+     id="text5387"><tspan
+       sodipodi:role="line"
+       id="tspan5385"
+       x="263.26511"
+       y="639.97119"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">Table of Contents</tspan></text>
+  <text
+     id="text5391"
+     y="693.97119"
+     x="287.26511"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
+       y="693.97119"
+       x="287.26511"
+       id="tspan5389"
+       sodipodi:role="line">Abstract</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     x="287.26511"
+     y="735.97119"
+     id="text5395"><tspan
+       sodipodi:role="line"
+       id="tspan5393"
+       x="287.26511"
+       y="735.97119"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">Synopsis</tspan></text>
+  <text
+     id="text5403"
+     y="779.97119"
+     x="287.26511"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
+       y="779.97119"
+       x="287.26511"
+       id="tspan5401"
+       sodipodi:role="line">Run</tspan></text>
+  <text
+     id="text5411"
+     y="823.97119"
+     x="327.26511"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
+       y="823.97119"
+       x="327.26511"
+       id="tspan5409"
+       sodipodi:role="line">Using PyPi</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     x="327.26511"
+     y="863.97119"
+     id="text5419"><tspan
+       sodipodi:role="line"
+       id="tspan5417"
+       x="327.26511"
+       y="863.97119"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">Using</tspan></text>
+  <text
+     id="text5423"
+     y="905.97119"
+     x="287.26511"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
+       y="905.97119"
+       x="287.26511"
+       id="tspan5421"
+       sodipodi:role="line">Examples</tspan></text>
+  <rect
+     ry="16.579803"
+     y="840.57068"
+     x="395.97021"
+     height="33.159607"
+     width="143.76508"
+     id="rect5459"
+     style="opacity:1;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <text
+     id="text5427"
+     y="863.97119"
+     x="405.26511"
+     style="font-size:21.33333333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314;"
+       y="863.97119"
+       x="405.26511"
+       id="tspan5425"
+       sodipodi:role="line">docker run</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     x="327.26511"
+     y="947.97119"
+     id="text5431"><tspan
+       sodipodi:role="line"
+       id="tspan5429"
+       x="327.26511"
+       y="947.97119"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">Check available pre-processed runs</tspan></text>
+  <text
+     id="text5435"
+     y="987.97119"
+     x="327.26511"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
+       y="987.97119"
+       x="327.26511"
+       id="tspan5433"
+       sodipodi:role="line">Copy the default for a selected pre-processed run</tspan></text>
+  <circle
+     r="3.2798309"
+     cy="683.992"
+     cx="273.8902"
+     id="path5437"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle5439"
+     cx="273.8902"
+     cy="727.992"
+     r="3.2798309" />
+  <circle
+     r="3.2798309"
+     cy="771.992"
+     cx="273.8902"
+     id="circle5441"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle5443"
+     cx="273.8902"
+     cy="899.992"
+     r="3.2798309" />
+  <circle
+     r="3.2798309"
+     cy="815.992"
+     cx="311.8902"
+     id="circle5445"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle5447"
+     cx="311.8902"
+     cy="855.992"
+     r="3.2798309" />
+  <circle
+     r="3.2798309"
+     cy="939.992"
+     cx="311.8902"
+     id="circle5449"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.56514;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle5451"
+     cx="311.8902"
+     cy="979.992"
+     r="3.2798309" />
+  <text
+     id="text5455"
+     y="1087.9515"
+     x="258.15094"
+     style="font-size:38.0596px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#294172;stroke-width:0.951495;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;fill:#294172;stroke-width:0.951495;"
+       y="1087.9515"
+       x="258.15094"
+       id="tspan5453"
+       sodipodi:role="line">Abstract</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5457"
+     d="M 254.4129,1102.3169 H 1096.655"
+     style="fill:none;stroke:#c4beb6;stroke-width:0.828817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:nodetypes="cc" />
+  <rect
+     style="opacity:1;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:6.82385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect5461"
+     width="267.77698"
+     height="33.159607"
+     x="257.69922"
+     y="1138.7366"
+     ry="16.579803" />
+  <text
+     xml:space="preserve"
+     style="font-size:21.33333333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.501314"
+     x="266.99411"
+     y="1162.1372"
+     id="text5465"><tspan
+       sodipodi:role="line"
+       id="tspan5463"
+       x="266.99411"
+       y="1162.1372"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;">freesurfer_pp_moc.py</tspan></text>
+  <text
+     id="text5469"
+     y="1163.2646"
+     x="535.34509"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314"
+       y="1163.2646"
+       x="535.34509"
+       id="tspan5467"
+       sodipodi:role="line">is a dummy FreeSurfer plugin/container that is </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
+     x="267.34509"
+     y="1197.2646"
+     id="text5473"><tspan
+       sodipodi:role="line"
+       id="tspan5471"
+       x="267.34509"
+       y="1197.2646"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">prepopulated with the results of several a priori FreeSurfer runs. For a given </tspan><tspan
+       id="tspan5475"
+       sodipodi:role="line"
+       x="267.34509"
+       y="1228.2302"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">run, this script will simply copy elements of one of these prior runs to the </tspan><tspan
+       id="tspan5477"
+       sodipodi:role="line"
+       x="267.34509"
+       y="1259.1959"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">output directory.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:38.0596px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#294172;stroke-width:0.951495;"
+     x="258.15094"
+     y="1347.9515"
+     id="text5489"><tspan
+       sodipodi:role="line"
+       id="tspan5487"
+       x="258.15094"
+       y="1347.9515"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;fill:#294172;stroke-width:0.951495;">Synopsis</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     style="fill:none;stroke:#c4beb6;stroke-width:0.828817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 254.4129,1362.3169 H 1096.655"
+     id="path5491"
+     inkscape:connector-curvature="0" />
+  <rect
+     rx="5.1782227"
+     ry="6.2363639"
+     y="1391.0686"
+     x="251.19562"
+     height="295.2215"
+     width="845.2663"
+     id="rect5529"
+     style="opacity:1;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:4.56366;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <text
+     id="text5497"
+     y="1429.3204"
+     x="278.34009"
+     style="font-size:21.33333333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1429.3204"
+       x="278.34009"
+       id="tspan5495"
+       sodipodi:role="line">python freesurfer_pp.py                                         \</tspan><tspan
+       id="tspan5511"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1459.4407"
+       x="278.34009"
+       sodipodi:role="line">    [-v &lt;level&gt;] [--verbosity &lt;level&gt;]                          \</tspan><tspan
+       id="tspan5513"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1489.561"
+       x="278.34009"
+       sodipodi:role="line">    [--version]                                                 \</tspan><tspan
+       id="tspan5515"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1519.6813"
+       x="278.34009"
+       sodipodi:role="line">    [--man]                                                     \</tspan><tspan
+       id="tspan5517"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1549.8016"
+       x="278.34009"
+       sodipodi:role="line">    [--meta]                                                    \</tspan><tspan
+       id="tspan5519"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1579.9219"
+       x="278.34009"
+       sodipodi:role="line">    [--copySpec &lt;copySpec&gt;]                                     \</tspan><tspan
+       id="tspan5521"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1610.0421"
+       x="278.34009"
+       sodipodi:role="line">    [--ageSpec &lt;ageSpec&gt;]                                       \</tspan><tspan
+       id="tspan5523"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1640.1625"
+       x="278.34009"
+       sodipodi:role="line">    &lt;inputDir&gt;                                                  \</tspan><tspan
+       id="tspan5525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1670.2827"
+       x="278.34009"
+       sodipodi:role="line">    &lt;outputDir&gt;</tspan><tspan
+       id="tspan5527"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314;"
+       y="1700.2827"
+       x="278.34009"
+       sodipodi:role="line" /></text>
+  <text
+     id="text5533"
+     y="1767.9515"
+     x="258.15094"
+     style="font-size:38.0596px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#294172;stroke-width:0.951495"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;fill:#294172;stroke-width:0.951495"
+       y="1767.9515"
+       x="258.15094"
+       id="tspan5531"
+       sodipodi:role="line">Run</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5535"
+     d="M 254.4129,1782.3169 H 1096.655"
+     style="fill:none;stroke:#c4beb6;stroke-width:0.828817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     sodipodi:nodetypes="cc" />
+  <rect
+     ry="16.579803"
+     y="1816.7366"
+     x="325.69922"
+     height="33.159607"
+     width="94.128601"
+     id="rect5537"
+     style="opacity:1;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:4.04579;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <text
+     id="text5541"
+     y="1840.1372"
+     x="334.99411"
+     style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314"
+       y="1840.1372"
+       x="334.99411"
+       id="tspan5539"
+       sodipodi:role="line">plugin</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
+     x="435.34509"
+     y="1843.2646"
+     id="text5545"><tspan
+       sodipodi:role="line"
+       id="tspan5543"
+       x="435.34509"
+       y="1843.2646"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">can run in two modes: natively as a python package or as a</tspan></text>
+  <text
+     id="text5553"
+     y="1875.2646"
+     x="267.34509"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314"
+       y="1875.2646"
+       x="267.34509"
+       sodipodi:role="line"
+       id="tspan5551">containerized docker image. The PyPI mode is largely included for </tspan><tspan
+       id="tspan5570"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314"
+       y="1906.2302"
+       x="267.34509"
+       sodipodi:role="line">completeness sake and only useful if run against some pre-processed tree </tspan><tspan
+       id="tspan5572"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314"
+       y="1937.1959"
+       x="267.34509"
+       sodipodi:role="line">that exists in the filesystem.</tspan><tspan
+       id="tspan5568"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314"
+       y="1967.1959"
+       x="267.34509"
+       sodipodi:role="line" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4c4c4c;stroke-width:0.501314"
+     x="267.34509"
+     y="1841.2646"
+     id="text5561"><tspan
+       sodipodi:role="line"
+       id="tspan5559"
+       x="267.34509"
+       y="1841.2646"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">This</tspan></text>
 </svg>
