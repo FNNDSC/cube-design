@@ -5222,39 +5222,39 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#4c4c4c;stroke-width:0.501314">Versions</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:20.0526px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.501314"
-     x="1089.7225"
-     y="601.64172"
+     style="font-size:22.6667px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#696c71;fill-opacity:1;stroke-width:0.501314"
+     x="1169.7225"
+     y="627.64172"
      id="text1837"><tspan
        sodipodi:role="line"
        id="tspan1835"
-       x="1089.7225"
-       y="601.64172"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314">Contributors (20):</tspan></text>
+       x="1169.7225"
+       y="627.64172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#696c71;fill-opacity:1;stroke-width:0.501314">Contributors (20):</tspan></text>
   <text
      id="text1841"
-     y="645.45251"
-     x="1119.7258"
+     y="673.45251"
+     x="1199.7258"
      style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
      xml:space="preserve"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
-       y="645.45251"
-       x="1119.7258"
+       y="673.45251"
+       x="1199.7258"
        id="tspan1839"
        sodipodi:role="line">jbernal</tspan></text>
   <text
      id="text1845"
-     y="511.888"
-     x="1089.0693"
-     style="font-size:20.0526px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.501314"
+     y="515.888"
+     x="1169.0693"
+     style="font-size:22.6667px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke-width:0.501314"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#000000;stroke-width:0.501314"
-       y="511.888"
-       x="1089.0693"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#6f7170;stroke-width:0.501314"
+       y="515.888"
+       x="1169.0693"
        id="tspan1843"
        sodipodi:role="line">Docker Image:</tspan></text>
   <g
-     transform="matrix(0.03465521,0,0,0.03465521,1093.2182,627.22355)"
+     transform="matrix(0.03465521,0,0,0.03465521,1173.2182,655.22355)"
      style="fill:#000000;stroke:none"
      id="use5147">
     <title
@@ -5267,18 +5267,18 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
   <text
      xml:space="preserve"
      style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
-     x="1119.8203"
-     y="683.0412"
+     x="1199.8203"
+     y="719.0412"
      id="text5169"><tspan
        sodipodi:role="line"
        id="tspan5167"
-       x="1119.8203"
-       y="683.0412"
+       x="1199.8203"
+       y="719.0412"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">rpienaar</tspan></text>
   <g
      id="g5175"
      style="fill:#000000;stroke:none"
-     transform="matrix(0.03465521,0,0,0.03465521,1093.3127,664.81223)">
+     transform="matrix(0.03465521,0,0,0.03465521,1173.3127,700.81223)">
     <title
        id="title5171">User</title>
     <path
@@ -5298,27 +5298,27 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
   <text
      xml:space="preserve"
      style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
-     x="1089.0693"
-     y="537.888"
+     x="1169.0693"
+     y="557.888"
      id="text5223"><tspan
        sodipodi:role="line"
        id="tspan5221"
-       x="1089.0693"
-       y="537.888"
+       x="1169.0693"
+       y="557.888"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">fnndsc/pl-pacsretrieve</tspan></text>
   <text
      id="text5227"
-     y="723.0412"
-     x="1119.8203"
+     y="765.0412"
+     x="1199.8203"
      style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
      xml:space="preserve"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314"
-       y="723.0412"
-       x="1119.8203"
+       y="765.0412"
+       x="1199.8203"
        id="tspan5225"
        sodipodi:role="line">PintoGideon</tspan></text>
   <g
-     transform="matrix(0.03465521,0,0,0.03465521,1093.3127,704.81223)"
+     transform="matrix(0.03465521,0,0,0.03465521,1173.3127,746.81223)"
      style="fill:#000000;stroke:none"
      id="g5233">
     <title
@@ -5331,14 +5331,14 @@ DVVVVUEZmmmab+Tz+fOqquLEiRP/X7FY3LN582b3P3So60f/Pxftq//dn4qFAAAAAElFTkSuQmCC
   <text
      xml:space="preserve"
      style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3e8ddd;stroke-width:0.501314"
-     x="1124.4442"
-     y="767.16412"
+     x="1176.4442"
+     y="823.16412"
      id="text5237"><tspan
        sodipodi:role="line"
        id="tspan5235"
-       x="1124.4442"
-       y="767.16412"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">View more ...</tspan></text>
+       x="1176.4442"
+       y="823.16412"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Interstate-Regular;-inkscape-font-specification:Interstate-Regular;letter-spacing:-0.499998;fill:#3e8ddd;stroke-width:0.501314">View all contributors ...</tspan></text>
   <g
      transform="matrix(0.04838708,0,0,0.04838708,1242.6755,140.5504)"
      style="fill:#c4beb6;stroke:none"
