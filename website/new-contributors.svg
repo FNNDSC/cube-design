@@ -19,8 +19,8 @@
      id="defs1860">
     <rect
        id="rect2533"
-       height="17.1382"
-       width="40.018126"
+       height="16.832889"
+       width="50.76792"
        y="26.72307"
        x="-415.42322" />
     <rect
@@ -45,9 +45,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="-438.8602"
-     inkscape:cx="1100.4046"
-     inkscape:zoom="1"
+     inkscape:cy="-946.9386"
+     inkscape:cx="1249.3539"
+     inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -827,8 +827,8 @@ AAAAAAAYx/8DO0mI6BUa7iQAAAAASUVORK5CYII=
        x="-484.14969"
        y="-206.08633" />
     <rect
-       y="115.45896"
-       x="-373.19635"
+       y="247.70979"
+       x="-413.4632"
        height="51.440563"
        width="85.443451"
        id="rect2495"
@@ -853,36 +853,25 @@ AAAAAAAYx/8DO0mI6BUa7iQAAAAASUVORK5CYII=
     <text
        xml:space="preserve"
        style="font-size:19.4501px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.48625"
-       x="-410.49109"
+       x="-283.49133"
        y="-84.550217"
        id="text2505"><tspan
          sodipodi:role="line"
          id="tspan2503"
-         x="-410.49109"
+         x="-283.49133"
          y="-84.550217"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.48625">ChRIS Development Quickstart</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.48625">ChRIS New Contributor Quickstart</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14.7383px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.368457"
-       x="-408.89761"
+       x="-180.827"
        y="-49.37677"
        id="text2509"><tspan
          sodipodi:role="line"
          id="tspan2507"
-         x="-408.89761"
+         x="-180.827"
          y="-49.37677"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Ultra-Light';stroke-width:0.368457">Skillsets</tspan></text>
-    <text
-       id="text2513"
-       y="-49.37677"
-       x="-154.8978"
-       style="font-size:14.7383px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.368457"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Ultra-Light';stroke-width:0.368457"
-         y="-49.37677"
-         x="-154.8978"
-         id="tspan2511"
-         sodipodi:role="line">Technologies</tspan></text>
     <text
        id="text2517"
        y="-258.1041"
@@ -895,65 +884,277 @@ AAAAAAAYx/8DO0mI6BUa7iQAAAAASUVORK5CYII=
          id="tspan2515"
          sodipodi:role="line">Skillsets</tspan></text>
     <circle
-       r="15.340037"
-       cy="-18.680418"
-       cx="-390.60959"
+       r="18.178221"
+       cy="0.032765705"
+       cx="-356.02145"
        id="path2519"
-       style="opacity:0.528127;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.750329;stroke-linecap:square;stroke-linejoin:round" />
+       style="opacity:1;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round" />
     <text
        style="line-height:1.25;font-family:sans-serif;font-size:10.58333333px;word-spacing:0px;shape-inside:url(#rect2527);white-space:pre;"
        id="text2525"
        xml:space="preserve" />
     <text
-       transform="translate(5.7927991,-23.925994)"
-       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533);"
+       y="0"
+       x="18.354643"
+       transform="matrix(1.185018,0,0,1.185018,105.57063,-6.1833363)"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
        id="text2531"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         x="-415.42383"
-         y="32.340918"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light'">Backend Web </tspan></tspan><tspan
+         x="-404.57517"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Backend Web </tspan></tspan><tspan
          sodipodi:role="line"
-         x="-415.42383"
-         y="40.34043"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light'">Development</tspan></tspan></text>
+         x="-404.55788"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Development</tspan></tspan></text>
     <circle
-       style="opacity:0.528127;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.750329;stroke-linecap:square;stroke-linejoin:round"
+       style="opacity:1;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round"
        id="circle2537"
-       cx="-337.69302"
-       cy="-18.680418"
-       r="15.340037" />
+       cx="-276.46036"
+       cy="0.032765705"
+       r="18.178221" />
     <text
+       y="0"
+       x="18.957882"
        xml:space="preserve"
        id="text2541"
-       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533);"
-       transform="translate(58.709469,-23.925994)"><tspan
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       transform="matrix(1.185018,0,0,1.185018,185.13191,-6.1833363)"><tspan
          sodipodi:role="line"
-         x="-415.42383"
-         y="32.340918"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light'">Frontend Web </tspan></tspan><tspan
+         x="-405.04435"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Frontend Web </tspan></tspan><tspan
          sodipodi:role="line"
-         x="-415.42383"
-         y="40.34043"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light'">Development</tspan></tspan></text>
+         x="-404.55788"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Development</tspan></tspan></text>
     <circle
-       r="15.340037"
-       cy="-18.680418"
-       cx="-284.77646"
+       r="18.178221"
+       cy="0.032765705"
+       cx="-196.89911"
        id="circle2543"
-       style="opacity:0.528127;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.750329;stroke-linecap:square;stroke-linejoin:round" />
+       style="opacity:1;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round" />
     <text
-       transform="translate(111.62614,-23.925994)"
-       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533);"
+       y="0"
+       x="16.735395"
+       transform="matrix(1.185018,0,0,1.185018,264.69314,-6.1833363)"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
        id="text2547"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         x="-415.42383"
-         y="32.340918"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light'">Frontend Web </tspan></tspan><tspan
+         x="-413.87261"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">UX Design &amp; Research</tspan></tspan></text>
+    <circle
+       style="opacity:1;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round"
+       id="circle2567"
+       cx="-117.33785"
+       cy="0.032765705"
+       r="18.178221" />
+    <text
+       y="0"
+       x="16.525845"
+       xml:space="preserve"
+       id="text2571"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       transform="matrix(1.185018,0,0,1.185018,344.25445,-6.1833363)"><tspan
          sodipodi:role="line"
-         x="-415.42383"
-         y="40.34043"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light'">Development</tspan></tspan></text>
+         x="-403.20216"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Marketing &amp;</tspan><tspan
+           dx="3.2250938"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle" /></tspan><tspan
+         sodipodi:role="line"
+         x="-408.19289"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Market Research</tspan></tspan></text>
+    <circle
+       r="18.178221"
+       cy="0.032765705"
+       cx="-31.50585"
+       id="circle2575"
+       style="opacity:1;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round" />
+    <text
+       transform="matrix(1.185018,0,0,1.185018,430.08648,-6.1833363)"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       id="text2581"
+       xml:space="preserve"
+       x="16.525845"
+       y="0"><tspan
+         sodipodi:role="line"
+         x="-411.87483"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Quality Assurance &amp; </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-397.95953"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Testing</tspan></tspan></text>
+    <circle
+       style="opacity:1;fill:#77cfea;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round"
+       id="circle2585"
+       cx="54.326122"
+       cy="0.032765705"
+       r="18.178221" />
+    <text
+       y="0"
+       x="16.525845"
+       xml:space="preserve"
+       id="text2589"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       transform="matrix(1.185018,0,0,1.185018,515.91851,-6.1833363)"><tspan
+         sodipodi:role="line"
+         x="-410.80803"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Technical Writing &amp; </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-406.79766"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Documentation</tspan></tspan></text>
+    <text
+       id="text2599"
+       y="-35.500278"
+       x="-274.72879"
+       style="font-size:8.91086px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.222771"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';stroke-width:0.222771"
+         y="-35.500278"
+         x="-274.72879"
+         id="tspan2597"
+         sodipodi:role="line">Want to contribute? These are some of the skillsets we're looking for:</tspan></text>
+    <text
+       id="text2603"
+       y="77.62323"
+       x="-180.827"
+       style="font-size:14.7383px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.368457"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Ultra-Light';stroke-width:0.368457"
+         y="77.62323"
+         x="-180.827"
+         id="tspan2601"
+         sodipodi:role="line">Technologies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.91086px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.222771"
+       x="-253.56215"
+       y="91.49971"
+       id="text2607"><tspan
+         sodipodi:role="line"
+         id="tspan2605"
+         x="-253.56215"
+         y="91.49971"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';stroke-width:0.222771">And these are some of the technologies ChRIS is built from:</tspan></text>
+    <circle
+       style="opacity:1;fill:#4e98d3;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round"
+       id="circle2609"
+       cx="-356.02145"
+       cy="127.03275"
+       r="18.178221" />
+    <text
+       xml:space="preserve"
+       id="text2613"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       transform="matrix(1.185018,0,0,1.185018,105.57063,120.81668)"
+       x="18.354643"
+       y="0"><tspan
+         sodipodi:role="line"
+         x="-399.16215"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">python3</tspan></tspan></text>
+    <circle
+       r="18.178221"
+       cy="127.03275"
+       cx="-276.46036"
+       id="circle2615"
+       style="opacity:1;fill:#4e98d3;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round" />
+    <text
+       transform="matrix(1.185018,0,0,1.185018,185.13191,120.81668)"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       id="text2619"
+       xml:space="preserve"
+       x="18.957882"
+       y="0"><tspan
+         sodipodi:role="line"
+         x="-403.47627"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">OpenShift  /</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-402.59715"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Kubernetes</tspan></tspan></text>
+    <circle
+       style="opacity:1;fill:#4e98d3;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round"
+       id="circle2621"
+       cx="-196.89911"
+       cy="127.03275"
+       r="18.178221" />
+    <text
+       xml:space="preserve"
+       id="text2625"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       transform="matrix(1.185018,0,0,1.185018,264.69314,120.81668)"
+       x="16.735395"
+       y="0"><tspan
+         sodipodi:role="line"
+         x="-401.96498"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">OpenStack</tspan></tspan></text>
+    <circle
+       r="18.178221"
+       cy="127.03275"
+       cx="-117.33785"
+       id="circle2627"
+       style="opacity:1;fill:#4e98d3;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round" />
+    <text
+       transform="matrix(1.185018,0,0,1.185018,344.25445,120.81668)"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       id="text2633"
+       xml:space="preserve"
+       x="16.525845"
+       y="0"><tspan
+         sodipodi:role="line"
+         x="-396.2655"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">React</tspan></tspan></text>
+    <circle
+       style="opacity:1;fill:#4e98d3;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round"
+       id="circle2635"
+       cx="-31.50585"
+       cy="127.03275"
+       r="18.178221" />
+    <text
+       y="0"
+       x="16.525845"
+       xml:space="preserve"
+       id="text2639"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       transform="matrix(1.185018,0,0,1.185018,430.08648,120.81668)"><tspan
+         sodipodi:role="line"
+         x="-404.16524"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">TypeScript  /</tspan><tspan
+           dx="2.4002914"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle" /></tspan><tspan
+         sodipodi:role="line"
+         x="-401.22413"
+         y="37.31426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Javascrpit</tspan></tspan></text>
+    <circle
+       r="18.178221"
+       cy="127.03275"
+       cx="54.326122"
+       id="circle2641"
+       style="opacity:1;fill:#4e98d3;fill-opacity:1;stroke:none;stroke-width:0.889153;stroke-linecap:square;stroke-linejoin:round" />
+    <text
+       transform="matrix(1.185018,0,0,1.185018,515.91851,120.81668)"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect2533)"
+       id="text2645"
+       xml:space="preserve"
+       x="16.525845"
+       y="0"><tspan
+         sodipodi:role="line"
+         x="-397.76198"
+         y="31.092416"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:overpass;-inkscape-font-specification:'overpass Light';text-align:center;text-anchor:middle">Django</tspan></tspan></text>
   </g>
 </svg>
