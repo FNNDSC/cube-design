@@ -7,6 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/duffy/Cáipéisí/Personal/MDLA/mdla-logo.png"
    sodipodi:docname="MDLA-logo.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg2378"
@@ -219,25 +222,11 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;fill:#b31b1b;fill-opacity:1;stroke-width:0.190181"
            d="m 128.25084,146.05113 v -0.91286 l 0.61619,0.0152 v -3.67429 l -0.61619,0.0228 v -0.92047 l 2.28978,0.0228 2.25173,-0.0228 -0.0152,1.10305 v 0.69225 l -1.01937,0.008 v -0.89004 h -1.52905 v 1.33887 l 1.30844,-0.008 v 0.91287 l -1.30083,-0.008 v 1.40734 h 1.61273 v -0.85201 h 1.01937 l -0.0152,0.98894 0.008,0.77593 -2.25935,-0.0228 z" />
       </g>
-      <rect
-         y="86.007042"
-         x="98.820358"
-         height="7.1345315"
-         width="30.605299"
-         id="rect2709"
-         style="fill:#b31b1b;fill-opacity:1;stroke:none;stroke-width:1.5875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="6.8139415"
-         cy="87.736259"
-         cx="114.12297"
-         id="path2701"
-         style="fill:#b31b1b;fill-opacity:1;stroke:none;stroke-width:1.89091;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02019;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2705"
-         cx="114.12297"
-         cy="87.736259"
-         r="3.6762822" />
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,52.287576,54.636229)"
+         d="M 233.70898 99.349609 A 25.75348 25.75348 0 0 0 208.79883 118.56641 L 175.87109 118.56641 L 175.87109 145.53125 L 218.0293 145.53125 A 25.75348 25.75348 0 0 0 233.70898 150.85547 A 25.75348 25.75348 0 0 0 249.38867 145.53125 L 291.54492 145.53125 L 291.54492 118.56641 L 258.61719 118.56641 A 25.75348 25.75348 0 0 0 233.70898 99.349609 z M 233.70898 111.20703 A 13.89461 13.89461 0 0 1 247.60352 125.10156 A 13.89461 13.89461 0 0 1 233.70898 138.99805 A 13.89461 13.89461 0 0 1 219.81445 125.10156 A 13.89461 13.89461 0 0 1 233.70898 111.20703 z M 275.63867 126.42773 A 4.6748122 4.6748122 0 0 1 275.70898 126.42773 A 4.6748122 4.6748122 0 0 1 280.38281 131.10156 A 4.6748122 4.6748122 0 0 1 275.70898 135.77734 A 4.6748122 4.6748122 0 0 1 271.0332 131.10156 A 4.6748122 4.6748122 0 0 1 275.63867 126.42773 z "
+         style="fill:#b31b1b;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2709" />
       <circle
          transform="scale(1,-1)"
          r="1.2368774"
@@ -245,12 +234,6 @@
          cx="113.06468"
          id="circle2707"
          style="fill:#b31b1b;fill-opacity:1;stroke:none;stroke-width:0.343241;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.343241;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle2711"
-         cx="125.23546"
-         cy="89.323753"
-         r="1.2368774" />
       <circle
          transform="scale(1,-1)"
          style="fill:#b31b1b;fill-opacity:1;stroke:none;stroke-width:0.234792;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
