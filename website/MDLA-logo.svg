@@ -111,7 +111,7 @@
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g99047"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="-16.265594"
      inkscape:cx="-762.39367"
@@ -140,12 +140,15 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       style="fill:#b31b1b;fill-opacity:1;stroke-width:0.753897;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3292"
-       width="70.157654"
-       height="63.187027"
-       x="-236.4929"
-       y="119.5189" />
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/duffy/Cáipéisí/Personal/MDLA/mute.png"
+       y="6.836647"
+       x="-366.84265"
+       height="322.43527"
+       width="329.70551"
+       id="rect101413"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.08546;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path3142"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#b31b1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.7813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
@@ -468,13 +471,6 @@
          style="fill:#b31b1b;fill-opacity:1;stroke-width:0.11902" />
     </g>
     <rect
-       style="fill:#b31b1b;fill-opacity:1;stroke-width:1.08544;stroke-linecap:round;stroke-linejoin:round"
-       id="rect99028"
-       width="231.10715"
-       height="39.763351"
-       x="-316.50577"
-       y="191.55264" />
-    <rect
        style="fill:#b31b1b;fill-opacity:1;stroke:#f6f5f4;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1012"
        width="210.576"
@@ -639,6 +635,20 @@
          id="tspan1002"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'NCAA Clemson Paw Hammer';-inkscape-font-specification:'NCAA Clemson Paw Hammer Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:22px;fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
          dx="0 -4.0406103 -5.0507627 -6.0609145 -5.0507631 -3.0304575 0 -10 -5.7142854 -11.428571">Horace MANN</tspan></text>
+    <rect
+       style="fill:#b31b1b;fill-opacity:1;stroke-width:0.753897;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3292"
+       width="70.157654"
+       height="63.187027"
+       x="-236.4929"
+       y="119.5189" />
+    <rect
+       style="fill:#b31b1b;fill-opacity:1;stroke-width:1.08544;stroke-linecap:round;stroke-linejoin:round"
+       id="rect99028"
+       width="231.10715"
+       height="39.763351"
+       x="-316.50577"
+       y="191.55264" />
     <rect
        style="fill:#b31b1b;fill-opacity:1;stroke-width:0.753897;stroke-linecap:round;stroke-linejoin:round"
        id="rect3282"
@@ -838,59 +848,28 @@
          x="-162.08238"
          id="tspan99024"
          sodipodi:role="line">End Meeting</tspan></text>
-    <g
-       id="g99047"
-       transform="translate(-112.04102,-5.5896843)">
-      <g
-         transform="matrix(1.3025025,0,0,1.3025025,-355.69633,338.17246)"
-         id="g101224">
-        <text
-           id="text98529"
-           y="-39.964188"
-           x="116.78232"
-           style="font-size:25.5765px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#b31b1b;fill-opacity:1;stroke-width:0.121604"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;stroke-width:0.121604"
-             y="-39.964188"
-             x="116.78232"
-             id="tspan98527"
-             sodipodi:role="line">I will find you,</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:25.5765px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#b31b1b;fill-opacity:1;stroke-width:0.121604"
-           x="86.304131"
-           y="-11.25995"
-           id="text98533"><tspan
-             sodipodi:role="line"
-             id="tspan98531"
-             x="86.304131"
-             y="-11.25995"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;stroke-width:0.121604">and I will mute you.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:25.5765px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#b31b1b;fill-opacity:1;stroke-width:0.121604"
-           x="-113.67197"
-           y="-44.459637"
-           id="text99033"
-           transform="scale(-1,1)"><tspan
-             sodipodi:role="line"
-             id="tspan99031"
-             x="-113.67197"
-             y="-44.459637"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;stroke-width:0.121604">&quot;</tspan></text>
-        <text
-           id="text99037"
-           y="-12.709636"
-           x="337.04556"
-           style="font-size:25.5765px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#b31b1b;fill-opacity:1;stroke-width:0.121604"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;stroke-width:0.121604"
-             y="-12.709636"
-             x="337.04556"
-             id="tspan99035"
-             sodipodi:role="line">&quot;</tspan></text>
-      </g>
-    </g>
+    <text
+       id="text98529"
+       y="265.39038"
+       x="-316.84598"
+       style="font-size:27.2303px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#b31b1b;fill-opacity:1;stroke-width:0.129466"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;stroke-width:0.129466"
+         y="265.39038"
+         x="-316.84598"
+         id="tspan98527"
+         sodipodi:role="line">I WILL FIND YOU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.4509px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#b31b1b;fill-opacity:1;stroke-width:0.111497"
+       x="-317.53244"
+       y="291.76974"
+       id="text98533"><tspan
+         sodipodi:role="line"
+         id="tspan98531"
+         x="-317.53244"
+         y="291.76974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stafford-Serial;-inkscape-font-specification:Stafford-Serial;stroke-width:0.111497">and I will mute you.</tspan></text>
     <g
        id="g100351"
        transform="matrix(0.95760048,0,0,0.95760048,-110.76013,-2.1707853)">
@@ -1388,13 +1367,12 @@
          sodipodi:start="0.77808139"
          sodipodi:end="5.1509594"
          sodipodi:arc-type="arc"
-         d="m 69.353657,57.261195 a 3.3177562,3.7673423 0 0 1 -4.410129,0.320441 3.3177562,3.7673423 0 0 1 -0.778426,-4.939521 3.3177562,3.7673423 0 0 1 4.234316,-1.436071"
          sodipodi:open="true"
-         transform="matrix(0.3945284,0.91888375,-0.99898032,0.04514779,0,0)" />
+         transform="matrix(0.3945284,0.91888375,-0.99898032,0.04514779,0,0)"
+         d="m 69.353657,57.261195 a 3.3177562,3.7673423 0 0 1 -4.410129,0.320441 3.3177562,3.7673423 0 0 1 -0.778426,-4.939521 3.3177562,3.7673423 0 0 1 4.234316,-1.436071" />
       <path
          transform="matrix(-0.43699928,0.89946185,0.99920338,0.03990738,0,0)"
          sodipodi:open="true"
-         d="m 71.560234,40.471871 a 3.0486786,3.8336084 0 0 1 -3.49106,2.738098 3.0486786,3.8336084 0 0 1 -2.480527,-4.127836 3.0486786,3.8336084 0 0 1 3.048037,-3.475332"
          sodipodi:arc-type="arc"
          sodipodi:end="4.7165542"
          sodipodi:start="0.27242349"
@@ -1404,7 +1382,8 @@
          sodipodi:cx="68.623985"
          sodipodi:type="arc"
          id="path100510"
-         style="fill:#ffffff;fill-opacity:1;stroke:#b31b1b;stroke-width:1.93495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#b31b1b;stroke-width:1.93495;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 71.560234,40.471871 a 3.0486786,3.8336084 0 0 1 -3.49106,2.738098 3.0486786,3.8336084 0 0 1 -2.480527,-4.127836 3.0486786,3.8336084 0 0 1 3.048037,-3.475332" />
       <path
          style="fill:none;stroke:#b31b1b;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -29.666112,63.450672 c 0,0 1.337209,-0.81503 2.020819,0.126911 0.683609,0.941941 0.958487,2.10839 0.958487,2.10839"
