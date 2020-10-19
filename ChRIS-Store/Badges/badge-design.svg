@@ -83,15 +83,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.59"
      inkscape:cx="406.18544"
-     inkscape:cy="587.63737"
+     inkscape:cy="587.3229"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1822"
      inkscape:window-height="1228"
-     inkscape:window-x="1520"
-     inkscape:window-y="1478"
+     inkscape:window-x="1594"
+     inkscape:window-y="1797"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata8671">
@@ -109,17 +109,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="display:inline;opacity:0.668634;fill:#ffffff;fill-opacity:1;stroke-width:6.23911;stroke-linecap:round;stroke-linejoin:round"
-       id="rect8477"
-       width="90.775772"
-       height="97.355789"
-       x="34.374401"
-       y="92.206345"
-       ry="5.052352"
-       inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/ChRIS-Store/Badges/colors_flat.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <rect
        y="113.11313"
        x="46.328171"
@@ -139,12 +128,14 @@
        y="110.33595"
        ry="0"
        inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/ChRIS-Store/Badges/badge-dark.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642" />
     <g
        id="g8378"
        transform="matrix(20.277198,0,0,20.277198,191.34063,289.345)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642">
       <g
          inkscape:export-ydpi="105.08642"
          inkscape:export-xdpi="105.08642"
@@ -456,7 +447,9 @@
     <g
        id="g8471"
        transform="matrix(18.463929,0,0,18.463929,180.38449,268.80962)"
-       style="display:inline;fill:#4c4c4c">
+       style="display:inline;fill:#4c4c4c"
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642">
       <g
          inkscape:export-ydpi="105.08642"
          inkscape:export-xdpi="105.08642"
@@ -514,7 +507,9 @@
     <g
        id="g8496"
        transform="matrix(39.305754,0,0,39.305754,296.43512,429.54945)"
-       style="display:inline;fill:#4c4c4c">
+       style="display:inline;fill:#4c4c4c"
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642">
       <g
          inkscape:export-ydpi="105.08642"
          inkscape:export-xdpi="105.08642"
@@ -565,12 +560,14 @@
        y="159.0193"
        ry="0"
        inkscape:export-filename="/home/duffy/SparkleShare/github.com/cube-design/ChRIS-Store/Badges/badge-dark.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642" />
     <g
        id="g10490"
        transform="matrix(20.277198,0,0,20.277198,191.34063,338.02837)"
-       style="display:inline;fill:#ffffff;fill-opacity:1">
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642">
       <g
          inkscape:export-ydpi="105.08642"
          inkscape:export-xdpi="105.08642"
@@ -882,7 +879,9 @@
     <g
        id="g10600"
        transform="matrix(18.463929,0,0,18.463929,180.38449,317.49299)"
-       style="display:inline;fill:#c8c8c8;fill-opacity:1">
+       style="display:inline;fill:#c8c8c8;fill-opacity:1"
+       inkscape:export-xdpi="105.08642"
+       inkscape:export-ydpi="105.08642">
       <g
          inkscape:export-ydpi="105.08642"
          inkscape:export-xdpi="105.08642"
