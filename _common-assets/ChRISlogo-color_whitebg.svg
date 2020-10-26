@@ -8,13 +8,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="65.643692"
-   height="44.436577"
-   viewBox="0 0 0.68378845 0.46288101"
+   width="443.17334"
+   height="300.00006"
+   viewBox="0 0 4.6163889 3.1250006"
    version="1.1"
    id="svg80330"
    sodipodi:docname="ChRISlogo-color_whitebg.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/duffy/bitmap.png"
+   inkscape:export-xdpi="248.24074"
+   inkscape:export-ydpi="248.24074">
   <defs
      id="defs80323">
     <clipPath
@@ -63,9 +66,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="92.334502"
-     inkscape:cy="37.355204"
-     inkscape:current-layer="layer1"
+     inkscape:cx="92.334495"
+     inkscape:cy="37.355251"
+     inkscape:current-layer="g243955"
      id="namedview80325"
      showgrid="false"
      inkscape:window-width="1822"
@@ -109,7 +112,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.5205698,4.3909392)">
+     transform="translate(-1.5205699,7.0530583)">
     <rect
        y="-4.4375"
        x="1.59375"
@@ -131,7 +134,7 @@
          inkscape:export-xdpi="105.08642"
          inkscape:export-filename="/home/duffy/Repositories/ChRIS_store_ui/src/assets/img/chris-plugin-store_logo.png"
          style="stroke-width:7.88881"
-         transform="matrix(0.12676181,0,0,0.12676181,-6.204894,-7.5191849)"
+         transform="matrix(0.8557937,0,0,0.8557937,-0.73193034,-4.2690448)"
          id="g243917">
         <g
            style="stroke-width:7.88881"
@@ -342,7 +345,7 @@
       </g>
       <g
          id="g243953"
-         transform="matrix(0.53819943,0,0,0.53819943,-3.7313329,-3.6513936)"
+         transform="matrix(3.6334893,0,0,3.6334893,15.967563,21.843169)"
          style="fill:#509bd4;fill-opacity:1">
         <path
            d="m -6.3316652,-8.2504714 c -0.011441,-0.00892 -0.01971,-0.020449 -0.024817,-0.034576 -0.00512,-0.014105 -0.00767,-0.029307 -0.00767,-0.04559 0,-0.015083 0.0026,-0.029757 0.00779,-0.044054 0.0052,-0.014297 0.013556,-0.026117 0.025081,-0.035464 0.011516,-0.00937 0.026119,-0.01404 0.043787,-0.01404 0.016452,0 0.030484,0.00425 0.042093,0.012731 0.011611,0.0085 0.019836,0.018797 0.024691,0.030937 l -0.035349,0.015839 c -0.00502,-0.00744 -0.00983,-0.0129 -0.014423,-0.016371 -0.00459,-0.00346 -0.010255,-0.0052 -0.017013,-0.0052 -0.012307,0 -0.021316,0.0056 -0.027028,0.016768 -0.00572,0.011168 -0.00857,0.024129 -0.00857,0.038853 0,0.00917 0.0013,0.018016 0.00389,0.026498 0.0026,0.0085 0.00659,0.015456 0.011959,0.020932 0.00537,0.00546 0.011948,0.00818 0.019751,0.00818 0.00624,0 0.011822,-0.00205 0.016759,-0.00611 0.00494,-0.00408 0.00965,-0.00983 0.014158,-0.017278 l 0.036122,0.013509 c -0.014719,0.031873 -0.037072,0.047818 -0.067038,0.047818 -0.018017,0 -0.032748,-0.00446 -0.044177,-0.013388"
