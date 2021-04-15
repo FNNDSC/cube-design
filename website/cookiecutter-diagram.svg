@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="451.69867mm"
-   height="324.40308mm"
-   viewBox="0 0 451.69867 324.40308"
+   width="591.76648mm"
+   height="594.00018mm"
+   viewBox="0 0 591.76648 594.00019"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -96,8 +96,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.44194174"
-     inkscape:cx="486.39345"
-     inkscape:cy="550.21837"
+     inkscape:cx="617.67836"
+     inkscape:cy="1116.6198"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -129,7 +129,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-253.64253,-29.184135)">
+     transform="translate(-218.90673,240.413)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.96874;stroke-linecap:round;stroke-linejoin:round"
        id="rect97884"
@@ -140,9 +140,9 @@
     <rect
        style="fill:none;fill-opacity:1;stroke:#4185ca;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect97420"
-       width="134.34177"
+       width="169.07755"
        height="339.39755"
-       x="254.30399"
+       x="219.56819"
        y="12.896972"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -158,45 +158,45 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="273.72379"
+       x="236.68213"
        y="47.425007"
        id="text1580"><tspan
          sodipodi:role="line"
          id="tspan1578"
-         x="273.72379"
+         x="236.68213"
          y="47.425007"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">pl-app</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="286.42377"
+       x="249.38214"
        y="59.595844"
        id="text89856"><tspan
          sodipodi:role="line"
          id="tspan89854"
-         x="286.42377"
+         x="249.38214"
          y="59.595844"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">app</tspan></text>
     <path
        id="rect97416"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round"
-       d="m 288.72015,64.97782 h 99.88463 l 4.60987,5.499246 -4.60987,5.499245 h -99.88463 z"
+       d="m 249.57974,64.97782 h 137.29832 l 6.33659,5.499246 -6.33659,5.499245 H 249.57974 Z"
        sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="300.71127"
+       x="263.66968"
        y="72.82502"
        id="text97018"><tspan
          sodipodi:role="line"
          id="tspan97016"
-         x="300.71127"
+         x="263.66968"
          y="72.82502"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">app.py</tspan></text>
     <g
        id="use97133"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.96484"
-       transform="matrix(1.9520671,0,0,1.9520671,290.59777,66.143055)">
+       transform="matrix(1.9520671,0,0,1.9520671,253.55608,66.143055)">
       <title
          id="title97147">file-code</title>
       <path
@@ -207,18 +207,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="300.71127"
+       x="263.66968"
        y="84.466675"
        id="text97155"><tspan
          sodipodi:role="line"
          id="tspan97153"
-         x="300.71127"
+         x="263.66968"
          y="84.466675"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">__init__.py</tspan></text>
     <g
        id="g97161"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
-       transform="matrix(1.9520671,0,0,1.9520671,290.59777,77.784731)">
+       transform="matrix(1.9520671,0,0,1.9520671,253.55608,77.784731)">
       <title
          id="title97157">file-code</title>
       <path
@@ -229,18 +229,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="300.71127"
+       x="263.66968"
        y="96.108315"
        id="text97165"><tspan
          sodipodi:role="line"
          id="tspan97163"
-         x="300.71127"
+         x="263.66968"
          y="96.108315"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">__main__.py</tspan></text>
     <g
        id="g97171"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
-       transform="matrix(1.9520671,0,0,1.9520671,290.59777,89.426406)">
+       transform="matrix(1.9520671,0,0,1.9520671,253.55608,89.426406)">
       <title
          id="title97167">file-code</title>
       <path
@@ -251,18 +251,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="300.71127"
+       x="263.66968"
        y="109.33748"
        id="text97175"><tspan
          sodipodi:role="line"
          id="tspan97173"
-         x="300.71127"
+         x="263.66968"
          y="109.33748"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">tests</tspan></text>
     <g
        id="g97181"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.2163"
-       transform="matrix(0.04437318,0,0,0.04437318,290.91098,103.99245)">
+       transform="matrix(0.04437318,0,0,0.04437318,253.86929,103.99245)">
       <title
          id="title97177">Folder Open</title>
       <path
@@ -273,7 +273,7 @@
     <g
        id="g97187"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.2163"
-       transform="matrix(0.04437318,0,0,0.04437318,276.34087,54.548754)">
+       transform="matrix(0.04437318,0,0,0.04437318,239.29918,54.548754)">
       <title
          id="title97183">Folder Open</title>
       <path
@@ -284,7 +284,7 @@
     <g
        id="g97193"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.2163"
-       transform="matrix(0.04437318,0,0,0.04437318,263.08886,42.525121)">
+       transform="matrix(0.04437318,0,0,0.04437318,226.04717,42.525121)">
       <title
          id="title97189">Folder Open</title>
       <path
@@ -295,18 +295,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="317.11545"
+       x="280.07385"
        y="121.50835"
        id="text97197"><tspan
          sodipodi:role="line"
          id="tspan97195"
-         x="317.11545"
+         x="280.07385"
          y="121.50835"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">__init__.py</tspan></text>
     <g
        id="g97203"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
-       transform="matrix(1.9520671,0,0,1.9520671,307.00194,114.82641)">
+       transform="matrix(1.9520671,0,0,1.9520671,269.96025,114.82641)">
       <title
          id="title97199">file-code</title>
       <path
@@ -317,18 +317,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="317.11545"
+       x="280.07385"
        y="133.14998"
        id="text97207"><tspan
          sodipodi:role="line"
          id="tspan97205"
-         x="317.11545"
+         x="280.07385"
          y="133.14998"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">test_app.py</tspan></text>
     <g
        id="g97213"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
-       transform="matrix(1.9520671,0,0,1.9520671,307.00194,126.46809)">
+       transform="matrix(1.9520671,0,0,1.9520671,269.96025,126.46809)">
       <title
          id="title97209">file-code</title>
       <path
@@ -339,7 +339,7 @@
     <g
        id="use97308"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
-       transform="matrix(1.952126,0,0,1.952126,276.8827,139.58676)">
+       transform="matrix(1.952126,0,0,1.952126,239.84101,139.58676)">
       <title
          id="title97322">file-text</title>
       <path
@@ -350,18 +350,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="286.42377"
+       x="249.38214"
        y="146.37917"
        id="text97330"><tspan
          sodipodi:role="line"
          id="tspan97328"
-         x="286.42377"
+         x="249.38214"
          y="146.37917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">Dockerfile</tspan></text>
     <g
        id="g97336"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
-       transform="matrix(1.952126,0,0,1.952126,276.8827,151.22844)">
+       transform="matrix(1.952126,0,0,1.952126,239.84101,151.22844)">
       <title
          id="title97332">file-text</title>
       <path
@@ -372,18 +372,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="286.42377"
+       x="249.38214"
        y="158.02083"
        id="text97340"><tspan
          sodipodi:role="line"
          id="tspan97338"
-         x="286.42377"
+         x="249.38214"
          y="158.02083"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">LICENSE</tspan></text>
     <g
        id="g97346"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
-       transform="matrix(1.952126,0,0,1.952126,276.8827,162.87012)">
+       transform="matrix(1.952126,0,0,1.952126,239.84101,162.87012)">
       <title
          id="title97342">file-text</title>
       <path
@@ -394,18 +394,18 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="286.42377"
+       x="249.38214"
        y="169.66249"
        id="text97350"><tspan
          sodipodi:role="line"
          id="tspan97348"
-         x="286.42377"
+         x="249.38214"
          y="169.66249"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">README.rst</tspan></text>
     <g
        id="g97356"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
-       transform="matrix(1.952126,0,0,1.952126,276.8827,174.5118)">
+       transform="matrix(1.952126,0,0,1.952126,239.84101,174.5118)">
       <title
          id="title97352">file-text</title>
       <path
@@ -416,29 +416,29 @@
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="286.42377"
+       x="249.38214"
        y="181.30415"
        id="text97360"><tspan
          sodipodi:role="line"
          id="tspan97358"
-         x="286.42377"
+         x="249.38214"
          y="181.30415"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">requirements.txt</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
-       x="286.42377"
+       x="249.38214"
        y="193.47505"
        id="text97370"><tspan
          sodipodi:role="line"
          id="tspan97368"
-         x="286.42377"
+         x="249.38214"
          y="193.47505"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">setup.py</tspan></text>
     <g
        id="g97376"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
-       transform="matrix(1.9520671,0,0,1.9520671,277.11575,187.04719)">
+       transform="matrix(1.9520671,0,0,1.9520671,240.07406,187.04719)">
       <title
          id="title97372">file-code</title>
       <path
@@ -448,66 +448,66 @@
     </g>
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 265.5717,50.856273 V 191.54524"
+       d="M 228.53001,50.856273 V 191.54524"
        id="path97378"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.53615,57.540549 h -8"
+       d="m 236.49446,57.540549 h -8"
        id="path97380" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.53615,143.26556 h -8"
+       d="m 236.49446,143.26556 h -8"
        id="path97382" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.53615,154.90724 h -8"
+       d="m 236.49446,154.90724 h -8"
        id="path97384" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.53615,167.07806 h -8"
+       d="m 236.49446,167.07806 h -8"
        id="path97386" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.53615,178.71971 h -8"
+       d="m 236.49446,178.71971 h -8"
        id="path97388" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.53615,191.41973 h -8"
+       d="m 236.49446,191.41973 h -8"
        id="path97390" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 279.33004,64.085439 V 104.61906"
+       d="M 242.28835,64.085439 V 104.61906"
        id="path97400"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 287.29448,69.182197 h -8"
+       d="m 250.25279,69.182197 h -8"
        id="path97402" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 287.29448,80.823871 h -8"
+       d="m 250.25279,80.823871 h -8"
        id="path97404" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 287.29448,92.994686 h -8"
+       d="m 250.25279,92.994686 h -8"
        id="path97406" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 287.29448,104.63633 h -8"
+       d="m 250.25279,104.63633 h -8"
        id="path97408" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 294.1467,113.8271 v 16.80771"
+       d="m 257.10501,113.8271 v 16.80771"
        id="path97410"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 302.11115,118.92386 h -8"
+       d="m 265.06946,118.92386 h -8"
        id="path97412" />
     <path
        style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 302.11115,130.56554 h -8"
+       d="m 265.06946,130.56554 h -8"
        id="path97414" />
     <g
        id="g97864"
@@ -758,9 +758,9 @@
     <rect
        style="fill:#4185ca;fill-opacity:1;stroke:none;stroke-width:3.96874;stroke-linecap:round;stroke-linejoin:round"
        id="rect98373"
-       width="557.01294"
-       height="176.45757"
-       x="253.66031"
+       width="591.54468"
+       height="256.59204"
+       x="219.12856"
        y="-16.179039"
        transform="scale(1,-1)"
        inkscape:export-xdpi="96"
@@ -774,18 +774,18 @@
     <text
        xml:space="preserve"
        style="font-size:15.0336px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="336.62491"
-       y="-54.191277"
+       x="310.16663"
+       y="-64.774612"
        id="text1490"><tspan
          sodipodi:role="line"
-         x="336.62491"
-         y="-54.191277"
+         x="310.16663"
+         y="-64.774612"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="tspan98285">ChRIS cookiecutter</tspan></text>
     <g
        id="use98271"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:0.861238"
-       transform="matrix(7.8051041,0,0,7.8051041,281.26665,-138.48387)">
+       transform="matrix(7.8051041,0,0,7.8051041,254.8083,-149.06721)">
       <title
          id="title98377">ios-gear</title>
       <path
@@ -796,64 +796,63 @@
     <path
        id="rect98385"
        style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:3.96874;stroke-linecap:round;stroke-linejoin:round"
-       transform="scale(1,-1)"
-       d="m 276.90613,-16.179039 38.90072,-15.875 38.90072,15.875 v 11.4494997 h -77.80144 z"
+       d="m 250.44778,16.179039 38.90072,15.875 38.90072,-15.875 V 4.7295393 h -77.80144 z"
        sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="268.48343"
-       y="-34.613724"
+       x="242.0251"
+       y="-45.19706"
        id="text98390"><tspan
          sodipodi:role="line"
-         x="268.48343"
-         y="-34.613724"
+         x="242.0251"
+         y="-45.19706"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="tspan98388">Run <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro'"
    id="tspan98462">cookiecutter</tspan> with the ChRIS template, </tspan><tspan
          sodipodi:role="line"
-         x="268.48343"
-         y="-21.281246"
+         x="242.0251"
+         y="-31.864582"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="tspan98392">and a template ChRIS app will be generated</tspan><tspan
          sodipodi:role="line"
-         x="268.48343"
-         y="-7.9487696"
+         x="242.0251"
+         y="-18.532106"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan98466"> for you.</tspan></text>
+         id="tspan98466">for you.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
        x="516.69641"
        y="-110.44289"
        id="text98398"><tspan
          sodipodi:role="line"
          x="516.69641"
          y="-110.44289"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
          id="tspan98396">author_name</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
        x="516.69641"
        y="-94.567879"
        id="text98404"><tspan
          sodipodi:role="line"
          x="516.69641"
          y="-94.567879"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
          id="tspan98402">author_email</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
        x="516.69641"
        y="-78.692886"
        id="text98408"><tspan
          sodipodi:role="line"
          x="516.69641"
          y="-78.692886"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
          id="tspan98406">app_repo_name</tspan></text>
     <text
        xml:space="preserve"
@@ -890,36 +889,36 @@
          id="tspan98438">pl-app</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
        x="516.69641"
        y="-62.288723"
        id="text98470"><tspan
          sodipodi:role="line"
          x="516.69641"
          y="-62.288723"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
          id="tspan98468">app_type</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
        x="516.69641"
        y="-46.413719"
        id="text98474"><tspan
          sodipodi:role="line"
          x="516.69641"
          y="-46.413719"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
          id="tspan98472">app_title</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;word-spacing:0px;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
        x="516.69641"
        y="-30.538717"
        id="text98478"><tspan
          sodipodi:role="line"
          x="516.69641"
          y="-30.538717"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
          id="tspan98476">app_description</tspan></text>
     <text
        xml:space="preserve"
@@ -945,19 +944,30 @@
          id="tspan98484">Cookie cutter sample app</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;word-spacing:0px;text-anchor:start;fill:#294172;fill-opacity:1;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;word-spacing:0px;text-anchor:start;fill:#294172;fill-opacity:1;stroke-width:0.264583"
        x="606.65509"
        y="-30.538717"
        id="text98490"><tspan
          sodipodi:role="line"
          x="606.65509"
          y="-30.538717"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start;fill:#294172;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start;fill:#294172;fill-opacity:1;stroke-width:0.264583"
          id="tspan98488">A sample ChRIS app generated using</tspan><tspan
          sodipodi:role="line"
          x="606.65509"
          y="-17.309593"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start;fill:#294172;fill-opacity:1;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start;fill:#294172;fill-opacity:1;stroke-width:0.264583"
          id="tspan98492">cookiecutter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.6827px;line-height:1.25;font-family:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="458.67587"
+       y="-181.7802"
+       id="text98499"><tspan
+         sodipodi:role="line"
+         x="458.67587"
+         y="-181.7802"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan98497">It's easy to create a ChRIS app.</tspan></text>
   </g>
 </svg>
