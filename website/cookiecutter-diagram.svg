@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="451.69867mm"
+   height="324.40308mm"
+   viewBox="0 0 451.69867 324.40308"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cookiecutter-diagram.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2873.01,0,0,-2873.01,699.055,1444.61)"
+       spreadMethod="pad"
+       id="linearGradient161468">
+      <stop
+         style="stop-opacity:1;stop-color:#3a7cc7"
+         offset="0"
+         id="stop161464" />
+      <stop
+         style="stop-opacity:1;stop-color:#7ad4ed"
+         offset="1"
+         id="stop161466" />
+    </linearGradient>
+    <symbol
+       id="folder-open"
+       viewBox="0 0 576 512">
+      <title
+         id="folder-open-title">Folder Open</title>
+      <path
+         d="m 151.52529,77.28294 -19.16219,32.84934 a 16.93254,16.93254 0 0 1 -14.62643,8.40105 H 11.912865 c -4.9008775,0 -7.9544338,-5.31627 -5.4850775,-9.5496 L 25.589971,76.134383 a 16.933333,16.933333 0 0 1 14.626696,-8.40105 H 146.04047 c 4.90088,0 7.95444,5.316273 5.48482,9.549607 z M 40.216667,59.266667 H 127 v -12.7 c 0,-7.014105 -5.6859,-12.7 -12.7,-12.7 H 71.966667 L 55.033333,16.933333 H 12.7 c -7.0141042,0 -12.7,5.685896 -12.7,12.7 V 103.19967 L 18.276623,71.868242 c 4.534164,-7.77293 12.9413,-12.601575 21.940044,-12.601575 z"
+         id="path69802"
+         style="stroke-width:1" />
+    </symbol>
+    <symbol
+       id="file-code"
+       viewBox="0 0 12 16">
+      <title
+         id="title83186">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path83188"
+         style="stroke-width:1" />
+    </symbol>
+    <symbol
+       id="file"
+       viewBox="0 0 384 512">
+      <title
+         id="file-title">File</title>
+      <path
+         d="M 97.869375,25.902708 75.670833,3.7041667 c -2.38125,-2.38125 -5.609166,-3.73062503 -8.969375,-3.73062503 H 12.7 C 5.6885417,0 0,5.6885417 0,12.7 v 110.06667 c 0,7.01145 5.6885417,12.7 12.7,12.7 h 76.2 c 7.011458,0 12.7,-5.68855 12.7,-12.7 V 34.898542 c 0,-3.360209 -1.34938,-6.614584 -3.730625,-8.995834 z m -10.00125,7.963959 H 67.733333 V 13.731875 Z M 12.7,122.76667 V 12.7 h 42.333333 v 27.516667 c 0,3.518958 2.831042,6.35 6.35,6.35 H 88.9 v 76.200003 z"
+         id="path68755"
+         style="stroke-width:1" />
+    </symbol>
+    <symbol
+       id="file-text"
+       viewBox="0 0 12 16">
+      <title
+         id="title83221">file-text</title>
+      <path
+         d="M 1.5875,1.3229167 H 0.52916667 V 1.0583333 H 1.5875 Z m -1.05833333,0.79375 H 2.38125 V 1.8520833 H 0.52916667 Z m 0,0.5291666 H 2.38125 V 2.38125 H 0.52916667 Z m 0,0.5291667 H 2.38125 V 2.9104167 H 0.52916667 Z M 3.175,1.190625 V 3.7041667 C 3.175,3.8496875 3.0559375,3.96875 2.9104167,3.96875 H 0.26458333 C 0.1190625,3.96875 0,3.8496875 0,3.7041667 V 0.52916667 C 0,0.38364583 0.1190625,0.26458333 0.26458333,0.26458333 H 2.2489583 Z M 2.9104167,1.3229167 2.1166667,0.52916667 H 0.26458333 V 3.7041667 H 2.9104167 Z"
+         id="path83223"
+         style="stroke-width:1" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22097087"
+     inkscape:cx="520.94981"
+     inkscape:cy="363.75031"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="2560"
+     inkscape:window-y="1440"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-253.64253,-29.184135)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4185ca;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect97420"
+       width="134.34177"
+       height="322.43909"
+       x="254.30399"
+       y="29.855419" />
+    <rect
+       style="fill:#294172;fill-opacity:1;stroke:none;stroke-width:3.96874;stroke-linecap:round;stroke-linejoin:round"
+       id="rect97418"
+       width="317.11874"
+       height="324.40308"
+       x="388.22244"
+       y="29.184135" />
+    <rect
+       style="fill:#4185ca;fill-opacity:1;stroke:none;stroke-width:3.969;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="134.34177"
+       height="19.273941"
+       x="254.30399"
+       y="29.619278" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="258.7822"
+       y="42.512241"
+       id="text1490"><tspan
+         sodipodi:role="line"
+         id="tspan1488"
+         x="258.7822"
+         y="42.512241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#ffffff;stroke-width:0.264583">ChRIS cookiecutter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="273.72379"
+       y="63.300011"
+       id="text1580"><tspan
+         sodipodi:role="line"
+         id="tspan1578"
+         x="273.72379"
+         y="63.300011"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">pl-app</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="286.42377"
+       y="75.47084"
+       id="text89856"><tspan
+         sodipodi:role="line"
+         id="tspan89854"
+         x="286.42377"
+         y="75.47084"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">app</tspan></text>
+    <path
+       id="rect97416"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round"
+       d="m 288.72015,80.852821 h 99.88463 l 4.60987,5.499246 -4.60987,5.499245 h -99.88463 z"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="300.71127"
+       y="88.700012"
+       id="text97018"><tspan
+         sodipodi:role="line"
+         id="tspan97016"
+         x="300.71127"
+         y="88.700012"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">app.py</tspan></text>
+    <g
+       id="use97133"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.96484"
+       transform="matrix(1.9520671,0,0,1.9520671,290.59777,82.018056)">
+      <title
+         id="title97147">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path97149"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:8.96484" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="300.71127"
+       y="100.34167"
+       id="text97155"><tspan
+         sodipodi:role="line"
+         id="tspan97153"
+         x="300.71127"
+         y="100.34167"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">__init__.py</tspan></text>
+    <g
+       id="g97161"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
+       transform="matrix(1.9520671,0,0,1.9520671,290.59777,93.659732)">
+      <title
+         id="title97157">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path97159"
+         style="fill:#74ccea;fill-opacity:1;stroke-width:8.96484" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="300.71127"
+       y="111.98331"
+       id="text97165"><tspan
+         sodipodi:role="line"
+         id="tspan97163"
+         x="300.71127"
+         y="111.98331"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">__main__.py</tspan></text>
+    <g
+       id="g97171"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
+       transform="matrix(1.9520671,0,0,1.9520671,290.59777,105.30141)">
+      <title
+         id="title97167">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path97169"
+         style="fill:#74ccea;fill-opacity:1;stroke-width:8.96484" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="300.71127"
+       y="125.21248"
+       id="text97175"><tspan
+         sodipodi:role="line"
+         id="tspan97173"
+         x="300.71127"
+         y="125.21248"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">tests</tspan></text>
+    <g
+       id="g97181"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.2163"
+       transform="matrix(0.04437318,0,0,0.04437318,290.91098,119.86746)">
+      <title
+         id="title97177">Folder Open</title>
+      <path
+         d="m 151.52529,77.28294 -19.16219,32.84934 a 16.93254,16.93254 0 0 1 -14.62643,8.40105 H 11.912865 c -4.9008775,0 -7.9544338,-5.31627 -5.4850775,-9.5496 L 25.589971,76.134383 a 16.933333,16.933333 0 0 1 14.626696,-8.40105 H 146.04047 c 4.90088,0 7.95444,5.316273 5.48482,9.549607 z M 40.216667,59.266667 H 127 v -12.7 c 0,-7.014105 -5.6859,-12.7 -12.7,-12.7 H 71.966667 L 55.033333,16.933333 H 12.7 c -7.0141042,0 -12.7,5.685896 -12.7,12.7 V 103.19967 L 18.276623,71.868242 c 4.534164,-7.77293 12.9413,-12.601575 21.940044,-12.601575 z"
+         id="path97179"
+         style="stroke-width:8.2163" />
+    </g>
+    <g
+       id="g97187"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.2163"
+       transform="matrix(0.04437318,0,0,0.04437318,276.34087,70.423755)">
+      <title
+         id="title97183">Folder Open</title>
+      <path
+         d="m 151.52529,77.28294 -19.16219,32.84934 a 16.93254,16.93254 0 0 1 -14.62643,8.40105 H 11.912865 c -4.9008775,0 -7.9544338,-5.31627 -5.4850775,-9.5496 L 25.589971,76.134383 a 16.933333,16.933333 0 0 1 14.626696,-8.40105 H 146.04047 c 4.90088,0 7.95444,5.316273 5.48482,9.549607 z M 40.216667,59.266667 H 127 v -12.7 c 0,-7.014105 -5.6859,-12.7 -12.7,-12.7 H 71.966667 L 55.033333,16.933333 H 12.7 c -7.0141042,0 -12.7,5.685896 -12.7,12.7 V 103.19967 L 18.276623,71.868242 c 4.534164,-7.77293 12.9413,-12.601575 21.940044,-12.601575 z"
+         id="path97185"
+         style="stroke-width:8.2163" />
+    </g>
+    <g
+       id="g97193"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.2163"
+       transform="matrix(0.04437318,0,0,0.04437318,263.08886,58.400122)">
+      <title
+         id="title97189">Folder Open</title>
+      <path
+         d="m 151.52529,77.28294 -19.16219,32.84934 a 16.93254,16.93254 0 0 1 -14.62643,8.40105 H 11.912865 c -4.9008775,0 -7.9544338,-5.31627 -5.4850775,-9.5496 L 25.589971,76.134383 a 16.933333,16.933333 0 0 1 14.626696,-8.40105 H 146.04047 c 4.90088,0 7.95444,5.316273 5.48482,9.549607 z M 40.216667,59.266667 H 127 v -12.7 c 0,-7.014105 -5.6859,-12.7 -12.7,-12.7 H 71.966667 L 55.033333,16.933333 H 12.7 c -7.0141042,0 -12.7,5.685896 -12.7,12.7 V 103.19967 L 18.276623,71.868242 c 4.534164,-7.77293 12.9413,-12.601575 21.940044,-12.601575 z"
+         id="path97191"
+         style="stroke-width:8.2163" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="317.11545"
+       y="137.38335"
+       id="text97197"><tspan
+         sodipodi:role="line"
+         id="tspan97195"
+         x="317.11545"
+         y="137.38335"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">__init__.py</tspan></text>
+    <g
+       id="g97203"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
+       transform="matrix(1.9520671,0,0,1.9520671,307.00194,130.70142)">
+      <title
+         id="title97199">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path97201"
+         style="fill:#74ccea;fill-opacity:1;stroke-width:8.96484" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="317.11545"
+       y="149.02499"
+       id="text97207"><tspan
+         sodipodi:role="line"
+         id="tspan97205"
+         x="317.11545"
+         y="149.02499"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">test_app.py</tspan></text>
+    <g
+       id="g97213"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
+       transform="matrix(1.9520671,0,0,1.9520671,307.00194,142.3431)">
+      <title
+         id="title97209">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path97211"
+         style="fill:#74ccea;fill-opacity:1;stroke-width:8.96484" />
+    </g>
+    <g
+       id="use97308"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
+       transform="matrix(1.952126,0,0,1.952126,276.8827,155.46177)">
+      <title
+         id="title97322">file-text</title>
+      <path
+         d="M 1.5875,1.3229167 H 0.52916667 V 1.0583333 H 1.5875 Z m -1.05833333,0.79375 H 2.38125 V 1.8520833 H 0.52916667 Z m 0,0.5291666 H 2.38125 V 2.38125 H 0.52916667 Z m 0,0.5291667 H 2.38125 V 2.9104167 H 0.52916667 Z M 3.175,1.190625 V 3.7041667 C 3.175,3.8496875 3.0559375,3.96875 2.9104167,3.96875 H 0.26458333 C 0.1190625,3.96875 0,3.8496875 0,3.7041667 V 0.52916667 C 0,0.38364583 0.1190625,0.26458333 0.26458333,0.26458333 H 2.2489583 Z M 2.9104167,1.3229167 2.1166667,0.52916667 H 0.26458333 V 3.7041667 H 2.9104167 Z"
+         id="path97324"
+         style="stroke-width:8.96459" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="286.42377"
+       y="162.25418"
+       id="text97330"><tspan
+         sodipodi:role="line"
+         id="tspan97328"
+         x="286.42377"
+         y="162.25418"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">Dockerfile</tspan></text>
+    <g
+       id="g97336"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
+       transform="matrix(1.952126,0,0,1.952126,276.8827,167.10345)">
+      <title
+         id="title97332">file-text</title>
+      <path
+         d="M 1.5875,1.3229167 H 0.52916667 V 1.0583333 H 1.5875 Z m -1.05833333,0.79375 H 2.38125 V 1.8520833 H 0.52916667 Z m 0,0.5291666 H 2.38125 V 2.38125 H 0.52916667 Z m 0,0.5291667 H 2.38125 V 2.9104167 H 0.52916667 Z M 3.175,1.190625 V 3.7041667 C 3.175,3.8496875 3.0559375,3.96875 2.9104167,3.96875 H 0.26458333 C 0.1190625,3.96875 0,3.8496875 0,3.7041667 V 0.52916667 C 0,0.38364583 0.1190625,0.26458333 0.26458333,0.26458333 H 2.2489583 Z M 2.9104167,1.3229167 2.1166667,0.52916667 H 0.26458333 V 3.7041667 H 2.9104167 Z"
+         id="path97334"
+         style="stroke-width:8.96459" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="286.42377"
+       y="173.89584"
+       id="text97340"><tspan
+         sodipodi:role="line"
+         id="tspan97338"
+         x="286.42377"
+         y="173.89584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">LICENSE</tspan></text>
+    <g
+       id="g97346"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
+       transform="matrix(1.952126,0,0,1.952126,276.8827,178.74513)">
+      <title
+         id="title97342">file-text</title>
+      <path
+         d="M 1.5875,1.3229167 H 0.52916667 V 1.0583333 H 1.5875 Z m -1.05833333,0.79375 H 2.38125 V 1.8520833 H 0.52916667 Z m 0,0.5291666 H 2.38125 V 2.38125 H 0.52916667 Z m 0,0.5291667 H 2.38125 V 2.9104167 H 0.52916667 Z M 3.175,1.190625 V 3.7041667 C 3.175,3.8496875 3.0559375,3.96875 2.9104167,3.96875 H 0.26458333 C 0.1190625,3.96875 0,3.8496875 0,3.7041667 V 0.52916667 C 0,0.38364583 0.1190625,0.26458333 0.26458333,0.26458333 H 2.2489583 Z M 2.9104167,1.3229167 2.1166667,0.52916667 H 0.26458333 V 3.7041667 H 2.9104167 Z"
+         id="path97344"
+         style="stroke-width:8.96459" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="286.42377"
+       y="185.53751"
+       id="text97350"><tspan
+         sodipodi:role="line"
+         id="tspan97348"
+         x="286.42377"
+         y="185.53751"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">README.rst</tspan></text>
+    <g
+       id="g97356"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96459"
+       transform="matrix(1.952126,0,0,1.952126,276.8827,190.38681)">
+      <title
+         id="title97352">file-text</title>
+      <path
+         d="M 1.5875,1.3229167 H 0.52916667 V 1.0583333 H 1.5875 Z m -1.05833333,0.79375 H 2.38125 V 1.8520833 H 0.52916667 Z m 0,0.5291666 H 2.38125 V 2.38125 H 0.52916667 Z m 0,0.5291667 H 2.38125 V 2.9104167 H 0.52916667 Z M 3.175,1.190625 V 3.7041667 C 3.175,3.8496875 3.0559375,3.96875 2.9104167,3.96875 H 0.26458333 C 0.1190625,3.96875 0,3.8496875 0,3.7041667 V 0.52916667 C 0,0.38364583 0.1190625,0.26458333 0.26458333,0.26458333 H 2.2489583 Z M 2.9104167,1.3229167 2.1166667,0.52916667 H 0.26458333 V 3.7041667 H 2.9104167 Z"
+         id="path97354"
+         style="stroke-width:8.96459" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="286.42377"
+       y="197.17917"
+       id="text97360"><tspan
+         sodipodi:role="line"
+         id="tspan97358"
+         x="286.42377"
+         y="197.17917"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">requirements.txt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#4185ca;fill-opacity:1;stroke-width:0.264583"
+       x="286.42377"
+       y="209.35007"
+       id="text97370"><tspan
+         sodipodi:role="line"
+         id="tspan97368"
+         x="286.42377"
+         y="209.35007"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro Bold';fill:#4185ca;fill-opacity:1;stroke-width:0.264583">setup.py</tspan></text>
+    <g
+       id="g97376"
+       style="fill:#74ccea;fill-opacity:1;stroke:none;stroke-width:8.96484"
+       transform="matrix(1.9520671,0,0,1.9520671,277.11575,202.9222)">
+      <title
+         id="title97372">file-code</title>
+      <path
+         d="M 2.2489583,0.26458333 H 0.26458333 C 0.1190625,0.26458333 0,0.38364583 0,0.52916667 V 3.7041667 C 0,3.8496875 0.1190625,3.96875 0.26458333,3.96875 H 2.9104167 C 3.0559375,3.96875 3.175,3.8496875 3.175,3.7041667 V 1.190625 Z M 2.9104167,3.7041667 H 0.26458333 V 0.52916667 H 2.1166667 l 0.79375,0.79375003 z M 1.3229167,1.8467917 0.92604167,2.2489583 1.3229167,2.6458333 1.190625,2.9104167 0.52916667,2.2489583 1.190625,1.5875 Z M 1.984375,1.5875 2.6458333,2.2489583 1.984375,2.9104167 1.8520833,2.651125 2.2489583,2.2489583 1.8520833,1.8520833 Z"
+         id="path97374"
+         style="fill:#74ccea;fill-opacity:1;stroke-width:8.96484" />
+    </g>
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 265.5717,66.731274 V 207.42025"
+       id="path97378"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.53615,73.41555 h -8"
+       id="path97380" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.53615,159.14057 h -8"
+       id="path97382" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.53615,170.78225 h -8"
+       id="path97384" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.53615,182.95307 h -8"
+       id="path97386" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.53615,194.59472 h -8"
+       id="path97388" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.53615,207.29474 h -8"
+       id="path97390" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 279.33004,79.96044 v 40.53363"
+       id="path97400"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.29448,85.057198 h -8"
+       id="path97402" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.29448,96.698872 h -8"
+       id="path97404" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.29448,108.86969 h -8"
+       id="path97406" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.29448,120.51134 h -8"
+       id="path97408" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 294.1467,129.70211 v 16.80771"
+       id="path97410"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.11115,134.79887 h -8"
+       id="path97412" />
+    <path
+       style="fill:none;stroke:#bbd8e2;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.11115,146.44055 h -8"
+       id="path97414" />
+    <g
+       id="g97864"
+       transform="translate(5.2916667,5.2916667)">
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+         x="399.6698"
+         y="46.076771"
+         id="text97425"><tspan
+           sodipodi:role="line"
+           id="tspan97423"
+           x="399.6698"
+           y="46.076771"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"># Mostly you just need to define / fleshout these two methods:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#3b7ec8;fill-opacity:1;stroke-width:0.264583"
+         x="399.6698"
+         y="57.718441"
+         id="text97429"><tspan
+           sodipodi:role="line"
+           id="tspan97427"
+           x="399.6698"
+           y="57.718441"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#3b7ec8;fill-opacity:1;stroke-width:0.264583"><tspan
+             id="tspan97453"
+             style="fill:#dd5498">def</tspan><tspan
+             style="fill:#d63384"
+             id="tspan97431"> </tspan><tspan
+             style="fill:#67dab8"
+             id="tspan97433">define_parameters</tspan><tspan
+             id="tspan97455"
+             style="fill:#dd5498">(</tspan><tspan
+             id="tspan97457"
+             style="fill:#cbbbe9">self</tspan><tspan
+             style="fill:#dd5498"
+             id="tspan97437">):</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+         x="415.54477"
+         y="71.476768"
+         id="text97461"><tspan
+           sodipodi:role="line"
+           id="tspan97459"
+           x="415.54477"
+           y="71.476768"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583">&quot;&quot;&quot;</tspan><tspan
+           sodipodi:role="line"
+           x="415.54477"
+           y="82.658966"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97463">Define the CLI arguments accepted by your plugin app.</tspan><tspan
+           sodipodi:role="line"
+           x="415.54477"
+           y="93.841156"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97465">Use self.add_argument to specify a new app argument.</tspan><tspan
+           sodipodi:role="line"
+           x="415.54477"
+           y="105.02335"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97467">&quot;&quot;&quot;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+         x="415.54477"
+         y="115.92676"
+         id="text97471"><tspan
+           sodipodi:role="line"
+           id="tspan97469"
+           x="415.54477"
+           y="115.92676"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"># For example...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+         x="399.6698"
+         y="126.51009"
+         id="text97475"><tspan
+           sodipodi:role="line"
+           id="tspan97473"
+           x="399.6698"
+           y="126.51009"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"><tspan
+             style="fill:#ffffff"
+             id="tspan97497">   self</tspan><tspan
+             style="fill:#dd5498"
+             id="tspan97495">.<tspan
+   style="fill:#ffffff"
+   id="tspan97499">add_argument</tspan>(</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="137.69229"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97477">      '--ignoreInputDir',</tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="148.87448"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97479">      <tspan
+   style="fill:#ffffff"
+   id="tspan97501">dest</tspan>         = <tspan
+   style="fill:#ffe9a6"
+   id="tspan97513">'b_ignoreInputDir'</tspan><tspan
+   style="fill:#e374ab"
+   id="tspan97521">,</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="160.05669"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97481">      <tspan
+   style="fill:#ffffff"
+   id="tspan97503">type</tspan>         = <tspan
+   style="fill:#ffffff"
+   id="tspan97511">bool</tspan><tspan
+   style="fill:#e374ab"
+   id="tspan97523">,</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="171.23888"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97483">     <tspan
+   style="fill:#ffffff"
+   id="tspan97505"> optional</tspan>     = <tspan
+   style="fill:#fd933a"
+   id="tspan97525">True</tspan><tspan
+   style="fill:#e374ab"
+   id="tspan97533">,</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="182.42107"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97485">     <tspan
+   style="fill:#ffffff"
+   id="tspan97507"> help   </tspan>      = <tspan
+   style="fill:#ffe9a6"
+   id="tspan97515">'if set, ignore the input dir completely'</tspan><tspan
+   id="tspan97519"
+   style="fill:#e374ab">,</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="193.60327"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97487">  <tspan
+   style="fill:#ffffff"
+   id="tspan97509">    default </tspan>     =<tspan
+   style="fill:#fd933a"
+   id="tspan97531"> False</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="204.78546"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#dd5498;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97489">)</tspan><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="215.96765"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97491" /><tspan
+           sodipodi:role="line"
+           x="399.6698"
+           y="227.14986"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#74ccea;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97493"><tspan
+   style="fill:#dd5498"
+   id="tspan97535">def</tspan> <tspan
+   style="fill:#44d2a8"
+   id="tspan97539">run </tspan><tspan
+   style="fill:#dd5498"
+   id="tspan97537">(<tspan
+   style="fill:#ffffff"
+   id="tspan97541">self</tspan>, <tspan
+   style="fill:#ffffff"
+   id="tspan97543">options</tspan>):</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+         x="415.54477"
+         y="240.8102"
+         id="text97553"><tspan
+           sodipodi:role="line"
+           id="tspan97545"
+           x="415.54477"
+           y="240.8102"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583">&quot;&quot;&quot;</tspan><tspan
+           sodipodi:role="line"
+           x="415.54477"
+           y="251.99239"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97547">Define the CLI arguments accepted by your plugin app.</tspan><tspan
+           sodipodi:role="line"
+           x="415.54477"
+           y="263.17459"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97549">Use self.add_argument to specify a new app argument.</tspan><tspan
+           sodipodi:role="line"
+           x="415.54477"
+           y="274.35678"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffe9a6;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97551">&quot;&quot;&quot;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.36724px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="416.07394"
+         y="285.26022"
+         id="text97619"><tspan
+           sodipodi:role="line"
+           x="416.07394"
+           y="285.26022"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97617">yourSuperDuperAnalyticsStartsHere<tspan
+   style="fill:#dd5498"
+   id="tspan97782">(</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="416.07394"
+           y="296.44241"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97774">		        inputDataFrom <tspan
+   style="fill:#3cb1c3"
+   id="tspan97792">= </tspan>options<tspan
+   style="fill:#dd5498"
+   id="tspan97786">.</tspan>inputDir<tspan
+   style="fill:#dd5498"
+   id="tspan97788">,</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="416.07394"
+           y="307.6246"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97776">		        outputDataTo<tspan
+   style="fill:#3cb1c3"
+   id="tspan97794"> =</tspan> options<tspan
+   style="fill:#e374ab"
+   id="tspan97790">.</tspan>outputDir</tspan><tspan
+           sodipodi:role="line"
+           x="416.07394"
+           y="318.80682"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97778">	     <tspan
+   style="fill:#e374ab"
+   id="tspan97784"> )</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="416.07394"
+           y="329.98901"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Anonymous Pro';-inkscape-font-specification:'Anonymous Pro';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan97780">    </tspan></text>
+    </g>
+  </g>
+</svg>
